@@ -32,19 +32,26 @@
   <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;&nbsp;
 </div>
 
+<div align="center">
+  <h3>Technologies</h3>
+  <img src="https://img.shields.io/badge/raspberrypi%20-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/arduino%20-%23009790.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;&nbsp;
+</div>
+
 ---
 
 <div align="center">
   <h3>Profiles</h3>
   <a href="https://pharaohcola13.github.io">
     <img width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/PharaohCola13">
     <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Spencer_Riley2">
     <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0001-7949-9163">
     <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
   </a>
@@ -54,5 +61,4 @@
 
 ---
 
-[![Spencer's GitHub Stats](https://github-readme-stats.pharaohcola13.vercel.app/api?username=PharaohCola13&layout=compact&show_icons=true&hide_border=true)](https://github.com/PharaohCola13/github-readme-stats)
-[![Top Langs](https://github-readme-stats.pharaohcola13.vercel.app/api/top-langs/?username=PharaohCola13&show_icons=true&hide_border=true)](https://github.com/PharaohCola13/github-readme-stats)
+<img align="" height='130px' src="https://github-readme-stats.pharaohcola13.vercel.app/api?username=pharaohcola13&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.pharaohcola13.vercel.app/api/top-langs/?username=pharaohcola13&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
