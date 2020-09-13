@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/
   </a>&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Spencer_Riley2">
-    <img src="https://img.shields.io/badge/ResearchGate%20-%2300CCBB.svg?&style=for-the-badge&logo=research-gate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ResearchGate%20-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0001-7949-9163">
     <img src="https://img.shields.io/badge/ORCID%20-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white"/>
