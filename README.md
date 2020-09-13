@@ -3,7 +3,7 @@ Hello, I'm Spencer Riley.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ### I'm a current undergraduate physics student at New Mexico Tech.
----
+
 - 🔭 Currently working on:
   - [A vizualisation package for R](https://pharaohcola13.github.io/pacviz/book/index.html)
   - [A computational tool for atmospheric science](https://physicsgoddess1972.github.io/Precipitable-Water-Model/)
@@ -28,6 +28,5 @@ Hello, I'm Spencer Riley.
 
 ---
 
-[![Spencer's GitHub Stats](https://github-readme-stats.pharaohcola13.vercel.app/api?username=PharaohCola13)](https://github.com/PharaohCola13/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.pharaohcola13.vercel.app/api/top-langs/?username=PharaohCola13&layout=compact)](https://github.com/PharaohCola13/github-readme-stats)
+[![Spencer's GitHub Stats](https://github-readme-stats.pharaohcola13.vercel.app/api?username=PharaohCola13&show_icons=true&hide_border=true)](https://github.com/PharaohCola13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.pharaohcola13.vercel.app/api/top-langs/?username=PharaohCola13&layout=compact&show_icons=true&hide_border=true)](https://github.com/PharaohCola13/github-readme-stats)
