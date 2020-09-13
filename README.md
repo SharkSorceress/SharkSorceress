@@ -45,16 +45,16 @@
 <div align="center">
   <h3>Profiles</h3>
   <a href="https://pharaohcola13.github.io">
-    <img width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+    <img src="https://img.shields.io/badge/website%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/PharaohCola13">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/
   </a>&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Spencer_Riley2">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+    <img src="https://img.shields.io/badge/ResearchGate%20-%2300CCBB.svg?&style=for-the-badge&logo=research-gate&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0001-7949-9163">
-    <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
+    <img src="https://img.shields.io/badge/ORCID%20-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </div>
 
