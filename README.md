@@ -28,15 +28,16 @@
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/gcloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;&nbsp;
 </div>
 
 <div align="center">
   <h3>Technologies</h3>
-  <img src="https://img.shields.io/badge/raspberrypi%20-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/raspberry%20pi%20-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/arduino%20-%23009790.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/google%20cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;
+
 </div>
 
 ---
