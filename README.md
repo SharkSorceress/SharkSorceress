@@ -61,7 +61,5 @@
 <br />
 
 ---
-<div align="center">
-  <img height='130px' src="https://github-readme-stats.pharaohcola13.vercel.app/api?username=pharaohcola13&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-  <img  height='130px' src="https://github-readme-stats.pharaohcola13.vercel.app/api/top-langs/?username=pharaohcola13&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-</div>
+<img height='130px' src="https://github-readme-stats.pharaohcola13.vercel.app/api?username=pharaohcola13&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<img  height='130px' src="https://github-readme-stats.pharaohcola13.vercel.app/api/top-langs/?username=pharaohcola13&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
