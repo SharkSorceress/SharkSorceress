@@ -17,7 +17,7 @@
   - Machine learning development
 - 🌱 I'm currently learning how to develop machine learning classifiers on quantum computers
 - 📫 Anyone can reach me via email: spencer.riley@student.nmt.edu
-- 🥅 2020 Goals:
+- 🥅 2021 Goals:
   - [ ] Finish and submit pacviz to CRAN
   - [ ] Have a working quantum support vector machine
   - [ ] Have a good recipe for jambalaya
