@@ -1,3 +1,4 @@
+
 <h3 align="center">Hello, I'm Spencer Riley. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 
 <p align="center">
@@ -61,7 +62,8 @@
 <br />
 
 ---
-<div>
+<details>
+  <summary>Click for GitHub Stats</summary>
   <img height='130px' src="https://github-readme-stats.pharaohcola13.vercel.app/api?username=pharaohcola13&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
   <img  height='130px' src="https://github-readme-stats.pharaohcola13.vercel.app/api/top-langs/?username=pharaohcola13&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-</div>
+</details>
