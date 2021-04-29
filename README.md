@@ -13,22 +13,17 @@
 <h3 align="center">I'm a current undergraduate physics student at New Mexico Tech.</h3>
 <div style="width: 25%">
   
-🔭&nbsp;&nbsp;&nbsp;&nbsp;Currently working on:
+- 🔭 Currently working on:
   - [pacviz: A vizualisation package for R](https://pharaohcola13.github.io/pacviz/book/index.html)
   - [A computational tool for atmospheric science](https://physicsgoddess1972.github.io/Precipitable-Water-Model/)
   - Machine learning development
- 
-🌱&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning how to develop machine learning classifiers on quantum computers
-
-📫&nbsp;&nbsp;&nbsp;&nbsp;Anyone can reach me via email: spencer.riley@student.nmt.edu
-
-🥅&nbsp;&nbsp;&nbsp;&nbsp;2021 Goals:
-
+- 🌱 I'm currently learning how to develop machine learning classifiers on quantum computers
+- 📫 Anyone can reach me via email: spencer.riley@student.nmt.edu
+- 🥅 2021 Goals:
   - [x] Finish and submit pacviz to CRAN
   - [ ] Have a working quantum support vector machine
   - [ ] Have a good recipe for jambalaya
- 
-⚡&nbsp;&nbsp;&nbsp;&nbsp;Fun Fact: My favorate animal is the whale shark
+- ⚡ Fun Fact: My favorate animal is the whale shark
 
 </div>
 <div align="center">
@@ -67,6 +62,9 @@
 </div>
 
 <br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 <details>
