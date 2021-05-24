@@ -71,4 +71,11 @@
 </details>
     
 <!--START_SECTION:waka-->
+```text
+HTML         4 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   45.63 % 
+JavaScript   3 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.89 % 
+YAML         1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Python       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+```
 <!--END_SECTION:waka-->
