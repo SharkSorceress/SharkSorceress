@@ -2,8 +2,8 @@
 <h3 align="center"><img src="https://media.tenor.com/images/796a2b0b9ffe443599d73277ec5e0da2/tenor.gif" width="50px"> Hello, I'm Spencer Riley. <img src="https://media.tenor.com/images/796a2b0b9ffe443599d73277ec5e0da2/tenor.gif" width="50px"></h3>
 <br>
 <p align="center">
-<a><img src="https://img.shields.io/badge/Pronouns-He%20Him-blueviolet?longCache=true&style=for-the-badge&amp;colorB=7908a5" height="28"></a>
-<a><img src="https://img.shields.io/github/followers/PharaohCola13?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Pronouns-He%20Him-blueviolet?longCache=true&style=for-the-badge&amp;colorB=7908a5" height="28"></a>
+<a href="#"><img src="https://img.shields.io/github/followers/PharaohCola13?style=for-the-badge" /></a>
 </p>
 <p align="center">
 <a href="https://app.gitkraken.com/glo/board/YJeKoiFNpQARwW5M" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=GitKraken&logoColor=white" ></a>
