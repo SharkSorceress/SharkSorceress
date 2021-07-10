@@ -10,6 +10,7 @@ jobs:
       - name: Clone overleaf
         run: |
           git clone https://spencerriley620%40gmail.com:${{ secrets.overleaf }}@git.overleaf.com/5e87506aa3afa80001813f3d
+          ls 5e87506aa3afa80001813f3d/
       - name: Compile
         uses: birjolaxew/tectonic-biber-action@master
         with:
