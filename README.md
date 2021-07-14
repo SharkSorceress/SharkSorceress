@@ -6,17 +6,17 @@
 <a href="#"><img src="https://img.shields.io/github/followers/PharaohCola13?style=for-the-badge" /></a>
 </p>
 <p align="center">
-<a href="https://app.gitkraken.com/glo/board/YJeKoiFNpQARwW5M" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=GitKraken&logoColor=white" ></a>
+<a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=GitKraken&logoColor=white" ></a>
 </p>
 <h3 align="center">I'm a current undergraduate physics student at New Mexico Tech.</h3>
 <div style="width: 25%">
   
 - 🔭 Currently working on:
-  - [pacviz: A vizualisation package for R](https://pharaohcola13.github.io/pacviz/book/index.html)
-  - [A computational tool for atmospheric science](https://physicsgoddess1972.github.io/Precipitable-Water-Model/)
+  - [pacviz: A vizualisation package for R](https://pacviz.sriley.dev)
+  - [A computational tool for atmospheric science](https://pmat.sriley.dev)
   - Machine learning development
 - 🌱 I'm currently learning how to develop machine learning classifiers on quantum computers
-- 📫 Anyone can reach me via email: spencer.riley@student.nmt.edu
+- 📫 Anyone can reach me via email: academic@sriley.dev
 - 🥅 2021 Goals:
   - [x] Finish and submit pacviz to CRAN
   - [ ] Finish Graduate School applications done
@@ -61,13 +61,13 @@
 
 <div align="center">
   <h3>Profiles</h3>
-  <a href="https://pharaohcola13.github.io">
+  <a href="https://sriley.dev">
     <img src="https://img.shields.io/badge/website%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/PharaohCola13">
     <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/
   </a>&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Spencer_Riley2">
+  <a href="https://rgate.sriley.dev">
     <img src="https://img.shields.io/badge/ResearchGate%20-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0001-7949-9163">
