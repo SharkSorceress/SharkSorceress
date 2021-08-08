@@ -14,6 +14,7 @@
 - 🔭 Currently working on:
   - [pacviz: A vizualisation package for R](https://pacviz.sriley.dev)
   - [A computational tool for atmospheric science](https://pmat.sriley.dev)
+  - [A web-scraper for collecting atmospheric data](https://github.com/PharaohCola13/AtmosAccess)
   - Machine learning development
 - 🌱 I'm currently learning how to develop machine learning classifiers on quantum computers
 - 📫 Anyone can reach me via email: academic@sriley.dev
