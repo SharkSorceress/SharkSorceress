@@ -20,7 +20,7 @@
 - 📫 Anyone can reach me via email: academic@sriley.dev
 - 🥅 2021 Goals:
   - [x] Finish and submit pacviz to CRAN
-  - [ ] Finish Graduate School applications done
+  - [ ] Finish Graduate School applications
   - [ ] Have two papers published in academic journals
 - 🥅 2022 Goals:
   - [ ] Have a working quantum support vector machine
