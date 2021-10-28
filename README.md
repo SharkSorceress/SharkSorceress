@@ -23,6 +23,7 @@
   - [ ] Finish Graduate School applications
   - [ ] Have two papers published in academic journals
     - [Here is one under review](https://doi.org/10.5194/amt-2021-130)
+    - [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
 - 🥅 2022 Goals:
   - [ ] Have a working quantum support vector machine
   - [ ] Have a good recipe for jambalaya
