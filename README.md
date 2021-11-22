@@ -13,7 +13,7 @@
   
 - 🔭 Currently working on:
   - [pacviz: A vizualisation package for R](https://pacviz.sriley.dev)
-  - [A computational tool for atmospheric science](https://pmat.sriley.dev)
+  - [A computational tool for atmospheric science](https://docs.pmat.app)
   - [A web-scraper for collecting atmospheric data](https://github.com/PharaohCola13/AtmosAccess)
   - [A mobile app that shows observational data for night-time and day-time astronomy](https://salsa.sriley.dev)
   - Machine learning development
