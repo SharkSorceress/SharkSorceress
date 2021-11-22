@@ -22,12 +22,16 @@
 - 🥅 2021 Goals:
   - [x] Finish and submit pacviz to CRAN
   - [ ] Finish Graduate School applications
+    - Two down, one to go!
   - [ ] Have two papers published in academic journals
     - [Here is one under review](https://doi.org/10.5194/amt-2021-130)
     - [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
+  - [ ] Finish PMAT V3.0
 - 🥅 2022 Goals:
   - [ ] Have a working quantum support vector machine
   - [ ] Have a good recipe for jambalaya
+  - [ ] Get accepted to grad school
+  - [ ] Finish PMAT V4.0
 - ⚡ Fun Fact: My favorate animal is the whale shark
 
 </div>
