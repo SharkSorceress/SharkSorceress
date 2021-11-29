@@ -21,8 +21,7 @@
 - 📫 Anyone can reach me via email: academic@sriley.dev
 - 🥅 2021 Goals:
   - [x] Finish and submit pacviz to CRAN
-  - [ ] Finish Graduate School applications
-    - Two down, one to go!
+  - [x] Finish Graduate School applications
   - [ ] Have two papers published in academic journals
     - [Here is one under review](https://doi.org/10.5194/amt-2021-130)
     - [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
