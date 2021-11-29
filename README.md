@@ -36,11 +36,12 @@
 
 </div>
 <div align="center">
-  <h3>Languages</h3>
+  <h3>Development Experience</h3>
   <a href="#"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;</a>
 </div>
 
 <div align="center">
@@ -62,7 +63,15 @@
   <a href="#"><img src="https://img.shields.io/badge/arduino%20-%23009790.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/google%20cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;</a>
+</div>
 
+<div align="center">
+  <h3>Currently Learning</h3>
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/TenosrFlow%20Quantum-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;</a>
 </div>
 
 ---
