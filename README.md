@@ -27,6 +27,7 @@
     - [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
   - [ ] Finish PMAT V3.0
 - 🥅 2022 Goals:
+  - [ ] Finish PMAT V3.0 (Guess I didn't finish this yet)
   - [ ] Have a working quantum support vector machine
   - [ ] Have a good recipe for jambalaya
   - [ ] Get accepted to grad school
