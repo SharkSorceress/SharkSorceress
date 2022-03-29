@@ -25,7 +25,7 @@
   - [ ] Finish PMAT V3.0 (Guess I didn't finish this yet)
   - [ ] Have a working quantum support vector machine
   - [ ] Have a good recipe for jambalaya
-  - [ ] Get accepted to grad school
+  - [x] Get accepted to grad school
   - [ ] Finish PMAT V4.0
   - [ ] Have two papers published in academic journals
     - [Published!](https://doi.org/10.5194/amt-15-1563-2022)
