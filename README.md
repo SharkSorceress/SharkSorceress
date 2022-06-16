@@ -1,5 +1,5 @@
 
-<h3 align="center"><img src="https://media.tenor.com/images/796a2b0b9ffe443599d73277ec5e0da2/tenor.gif" width="50px"> Hello, I'm Spencer Riley. <img src="https://media.tenor.com/images/796a2b0b9ffe443599d73277ec5e0da2/tenor.gif" width="50px"></h3>
+<h3 align="center"><img src="https://media.tenor.com/images/796a2b0b9ffe443599d73277ec5e0da2/tenor.gif" width="10px"> Hello, I'm Spencer Riley. <img src="https://media.tenor.com/images/796a2b0b9ffe443599d73277ec5e0da2/tenor.gif" width="10px"></h3>
 <br>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Pronouns-He%20Him-blueviolet?longCache=true&style=for-the-badge&amp;colorB=7908a5" height="28"></a>
@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-<a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=GitKraken&logoColor=white" ></a>
+<a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=Trello&logoColor=white" ></a>
 </p>
 <h3 align="center">I'm a current undergraduate physics student at New Mexico Tech.</h3>
 <div style="width: 25%">
