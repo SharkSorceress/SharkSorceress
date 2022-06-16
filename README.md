@@ -16,20 +16,18 @@
 - 🔭 Currently working on:
   - [pacviz: A vizualisation package for R](https://pacviz.sriley.dev)
   - [A computational tool for atmospheric science](https://docs.pmat.app)
-  - [A web-scraper for collecting atmospheric data](https://github.com/PharaohCola13/AtmosAccess)
   - Machine learning development
 - 🌱 I'm currently learning how to develop machine learning classifiers on quantum computers
 - 📫 Anyone can reach me via email: academic@sriley.dev
 - 🥅 2022 Goals:
   - [x] Finish some more Graduate School applications
-  - [ ] Finish PMAT V3.0 (Guess I didn't finish this yet)
-  - [ ] Have a working quantum support vector machine
-  - [ ] Have a good recipe for jambalaya
   - [x] Get accepted to grad school
+  - [ ] Finish PMAT V3.0 (Guess I didn't finish this yet)
   - [ ] Finish PMAT V4.0
   - [ ] Have two papers published in academic journals
     - [Published!](https://doi.org/10.5194/amt-15-1563-2022)
     - [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
+  - [ ] Have a good recipe for jambalaya
 - ⚡ Fun Fact: My favorate animal is the whale shark
 
 </div>
