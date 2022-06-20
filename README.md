@@ -2,14 +2,10 @@
 <img src="./GHBanner_v2.png" width="65%">
 <br>
   <hr>
-  
-I am a physics graduate student at Montana State. 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student+at+Montana+State;Second+line+of+text)](https://git.io/typing-svg)
+  <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student+at+Montana+State;Second+line+of+text)](https://git.io/typing-svg)
  -->
-<a href="#"><img src="https://img.shields.io/badge/Pronouns-He%20Him-blueviolet?longCache=true&style=for-the-badge&amp;colorB=7908a5" height="28"></a>
-<a href="#"><img src="https://img.shields.io/github/followers/PharaohCola13?style=for-the-badge" /></a>
 <a href="https://www.buymeacoffee.com/pharaohcola13"><img src="https://github.com/k4m4/donations/blob/master/images/badge.svg" alt="Donations Badge" height="28"></a>
-<a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=Trello&logoColor=white"></a>
+<a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-007AC0?style=for-the-badge&logo=Trello&logoColor=white"></a>
 </p>
 
 
@@ -78,9 +74,6 @@ I am a physics graduate student at Montana State.
   <h3>Profiles</h3>
   <a href="https://sriley.dev">
     <img src="https://img.shields.io/badge/website%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/PharaohCola13">
-    <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/
   </a>&nbsp;&nbsp;
   <a href="https://rgate.sriley.dev">
     <img src="https://img.shields.io/badge/ResearchGate%20-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white"/>
