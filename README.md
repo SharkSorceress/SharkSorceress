@@ -1,5 +1,5 @@
 
-<h3 align="center"><img src="https://media.tenor.com/images/796a2b0b9ffe443599d73277ec5e0da2/tenor.gif" width="10px"> Hello, I'm Spencer Riley. <img src="https://media.tenor.com/images/796a2b0b9ffe443599d73277ec5e0da2/tenor.gif" width="10px"></h3>
+<img src="./GHBanner.png">
 <br>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Pronouns-He%20Him-blueviolet?longCache=true&style=for-the-badge&amp;colorB=7908a5" height="28"></a>
