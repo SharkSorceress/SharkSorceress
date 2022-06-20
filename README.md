@@ -1,17 +1,17 @@
-
-<img src="./GHBanner.png">
-<br>
 <p align="center">
+<img src="./GHBanner_v2.png" width="65%">
+<br>
+  <hr>
+  
+I am a physics graduate student at Montana State. 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student+at+Montana+State;Second+line+of+text)](https://git.io/typing-svg)
+ -->
 <a href="#"><img src="https://img.shields.io/badge/Pronouns-He%20Him-blueviolet?longCache=true&style=for-the-badge&amp;colorB=7908a5" height="28"></a>
 <a href="#"><img src="https://img.shields.io/github/followers/PharaohCola13?style=for-the-badge" /></a>
 <a href="https://www.buymeacoffee.com/pharaohcola13"><img src="https://github.com/k4m4/donations/blob/master/images/badge.svg" alt="Donations Badge" height="28"></a>
-
-</p>
-<p align="center">
-<a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=Trello&logoColor=white" ></a>
+<a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=Trello&logoColor=white"></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <div style="width: 25%">
   
@@ -33,7 +33,7 @@
 - ⚡ Fun Fact: My favorate animal is the whale shark
 
 </div>
-<div align="center">
+<div align="left">
   <h3>Development Experience</h3>
   <a href="#"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;</a>
@@ -42,20 +42,20 @@
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;</a>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>Frameworks and CI</h3>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;&nbsp;</a>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>Machine Learning</h3>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;</a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;</a>
   <a href="#"><img alt="scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;</a>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>Technologies</h3>
   <a href="#"><img src="https://img.shields.io/badge/raspberry%20pi%20-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/arduino%20-%23009790.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>&nbsp;&nbsp;</a>
@@ -63,7 +63,7 @@
   <a href="#"><img src="https://img.shields.io/badge/google%20cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;</a>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>Currently Learning</h3>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;</a>
@@ -74,7 +74,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h3>Profiles</h3>
   <a href="https://sriley.dev">
     <img src="https://img.shields.io/badge/website%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/
