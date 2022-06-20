@@ -4,7 +4,7 @@
   <hr>
   <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student+at+Montana+State;Second+line+of+text)](https://git.io/typing-svg)
  -->
-<a href="https://www.buymeacoffee.com/pharaohcola13"><img src="https://github.com/k4m4/donations/blob/master/images/badge.svg" alt="Donations Badge" height="28"></a>
+<a href="https://www.buymeacoffee.com/pharaohcola13"><img src="https://github.com/k4m4/donations/blob/master/images/badge.svg" alt="Donations Badge" height="28"></a>&nbsp;&nbsp;
 <a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-007AC0?style=for-the-badge&logo=Trello&logoColor=white"></a>
 </p>
 
