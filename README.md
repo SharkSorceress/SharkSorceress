@@ -10,7 +10,9 @@
 <p align="center">
 <a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-179287?style=for-the-badge&logo=Trello&logoColor=white" ></a>
 </p>
-<h3 align="center">I'm a current undergraduate physics student at New Mexico Tech.</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <div style="width: 25%">
   
 - 🔭 Currently working on:
