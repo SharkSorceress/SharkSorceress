@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./GHBanner_v2.png" width="65%">
+<img src="./GHBanner_v3.png" width="65%">
 <br>
   <hr>
   <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student+at+Montana+State;Second+line+of+text)](https://git.io/typing-svg)
