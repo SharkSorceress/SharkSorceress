@@ -36,12 +36,17 @@
   <a href="#"><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;</a>
+
 </div>
 
 <div align="left">
   <h3>Frameworks and CI</h3>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;&nbsp;</a>
+    <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;</a>
+
 </div>
 
 <div align="left">
@@ -61,11 +66,10 @@
 
 <div align="left">
   <h3>Currently Learning</h3>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/TenosrFlow%20Quantum-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>&nbsp;&nbsp;</a>
   <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;</a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;</a>
 </div>
 
 ---
