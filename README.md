@@ -15,13 +15,12 @@
   - [pacviz: A vizualisation package for R](https://pacviz.sriley.dev)
   - [A computational tool for atmospheric science](https://docs.pmat.app)
   - Machine learning development
-- 🌱 I'm currently learning how to develop machine learning classifiers on quantum computers
+- 🌱 I'm currently learning numerical simulation methods to study magnetohydrodynamics. 
 - 📫 Anyone can reach me via email: academic@sriley.dev
 - 🥅 2022 Goals:
   - [x] Finish some more Graduate School applications
   - [x] Get accepted to grad school
   - [ ] Finish PMAT V3.0 (Guess I didn't finish this yet)
-  - [ ] Finish PMAT V4.0
   - [ ] Have two papers published in academic journals
     - [Published!](https://doi.org/10.5194/amt-15-1563-2022)
     - [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
