@@ -68,7 +68,7 @@
 <div align="left">
   <h3>Profiles</h3>
   <a href="https://sriley.dev">
-    <img src="https://img.shields.io/badge/website%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/
+    <img src="https://img.shields.io/badge/website%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://rgate.sriley.dev">
     <img src="https://img.shields.io/badge/ResearchGate%20-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white"/>
@@ -82,4 +82,6 @@
 
 <a href=https://www.cleardarksky.com/c/SWMASMTkey.html><img src="https://www.cleardarksky.com/c/SWMASMTcsk.gif?c=1335641"></a>
 
-[NWS Weather Forcecast for Bozeman, MT](https://forecast.weather.gov/product.php?site=MSO&issuedby=MSO&product=AFD&format=txt&version=1&glossary=1)
+<a href="https://forecast.weather.gov/product.php?site=MSO&issuedby=MSO&product=AFD&format=txt&version=1&glossary=1">
+  <img src="https://img.shields.io/badge/NWS%20Weather%20Forcecast%20For%20Bozeman,%20MT%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/>
+</a>
