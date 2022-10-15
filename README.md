@@ -77,3 +77,9 @@
     <img src="https://img.shields.io/badge/ORCID%20-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </div>
+
+---
+
+<a href=https://www.cleardarksky.com/c/SWMASMTkey.html><img src="https://www.cleardarksky.com/c/SWMASMTcsk.gif?c=1335641"></a>
+
+[Link to recent NWS Weather forcecast for Bozeman, MT](https://github.com/PharaohCola13/Development/blob/master/astro-obs/out.pdf)
