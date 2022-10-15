@@ -1,0 +1,16 @@
+
+<a href=https://www.cleardarksky.com/c/SWMASMTkey.html><img src="https://www.cleardarksky.com/c/SWMASMTcsk.gif?c=1335641"></a>
+
+<a href="https://forecast.weather.gov/product.php?site=MSO&issuedby=MSO&product=AFD&format=txt&version=1&glossary=1">
+  <img src="https://img.shields.io/badge/NWS%20Weather%20Forcecast%20For%20Bozeman,%20MT%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/>
+</a>
+
+---
+
+<div align="left">
+  <img src="https://services.swpc.noaa.gov/images/aurora-forecast-northern-hemisphere.jpg" width="33%">
+
+  <img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_211193171.jpg" width="33%" />
+
+  <img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIBC.jpg" width="33%" />
+</div>
