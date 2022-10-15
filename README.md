@@ -82,4 +82,4 @@
 
 <a href=https://www.cleardarksky.com/c/SWMASMTkey.html><img src="https://www.cleardarksky.com/c/SWMASMTcsk.gif?c=1335641"></a>
 
-[Link to recent NWS Weather forcecast for Bozeman, MT](https://github.com/PharaohCola13/Development/blob/master/astro-obs/out.pdf)
+[NWS Weather Forcecast for Bozeman, MT](https://forecast.weather.gov/product.php?site=MSO&issuedby=MSO&product=AFD&format=txt&version=1&glossary=1)
