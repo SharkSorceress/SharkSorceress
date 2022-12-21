@@ -11,20 +11,18 @@
 
 <div style="width: 25%">
   
-- 🔭 Currently working on:
+- 🔭 Previously worked on:
   - [pacviz: A vizualisation package for R](https://pacviz.sriley.dev)
   - [A computational tool for atmospheric science](https://docs.pmat.app)
-  - Machine learning development
 - 🌱 I'm currently learning numerical simulation methods to study magnetohydrodynamics. 
 - 📫 Anyone can reach me via email: academic@sriley.dev
-- 🥅 2022 Goals:
-  - [x] Finish some more Graduate School applications
-  - [x] Get accepted to grad school
+- 🥅 2023 Goals:
+  - [ ] Find some good recipes
+  - [ ] Pass my Qualifying Exams
   - [ ] Finish PMAT V3.0 (Guess I didn't finish this yet)
   - [ ] Have two papers published in academic journals
-    - [Published!](https://doi.org/10.5194/amt-15-1563-2022)
-    - [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
-  - [ ] Have a good recipe for jambalaya
+    - [x] [Published!](https://doi.org/10.5194/amt-15-1563-2022)
+    - [ ] [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
 - ⚡ Fun Fact: My favorate animal is the whale shark
 
 </div>
