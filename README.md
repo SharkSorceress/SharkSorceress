@@ -40,7 +40,7 @@
 
     goals.todo <- list(year.2023=list("[ ] Finish writing stuff for my blog",
                                       "[ ] Find some good recipes", 
-                                      "[ ] Pass my Doctoral Qualifying Exams",
+                                      "[0/4] Pass my Doctoral Qualifying Exams",
                                       "[ ] Finish PMAT V3.0 (Guess I didn't finish this yet)",
     # Draft available: https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf
                                       "[ ] Finish a paper for the Journal of Open Source Software"))
