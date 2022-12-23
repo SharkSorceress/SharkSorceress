@@ -38,16 +38,16 @@
 
     currently.learning <- "Numerical simulation methods to study magnetohydrodynamics."
 
-    goals.todo <- list(this.year=list("[ ] Finish writing stuff for my blog",
+    goals.todo <- list(year.2023=list("[ ] Finish writing stuff for my blog",
                                       "[ ] Find some good recipes", 
                                       "[ ] Pass my Doctoral Qualifying Exams",
                                       "[ ] Finish PMAT V3.0 (Guess I didn't finish this yet)",
     # Paper draft is available https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf
                                       "[ ] Finish a paper for the Journal of Open Source Software"))
-    goals.completed <- list(this.year=list(),
-                             last.year=list("[x] Get into graduate school",
+    goals.completed <- list(year.2023=list(),
+                            year.2022=list("[x] Get into graduate school",
     # Paper is available at https://doi.org/10.5194/amt-15-1563-2022
-                                            "[x] Published first paper"))
+                                           "[x] Published first paper"))
                                             
     fun.fact <- "My favorate animal is the whale shark"
   }
