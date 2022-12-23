@@ -42,7 +42,7 @@
                                       "[ ] Find some good recipes", 
                                       "[ ] Pass my Doctoral Qualifying Exams",
                                       "[ ] Finish PMAT V3.0 (Guess I didn't finish this yet)",
-    # Paper draft is available https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf
+    # Draft available: https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf
                                       "[ ] Finish a paper for the Journal of Open Source Software"))
     goals.completed <- list(year.2023=list(),
                             year.2022=list("[x] Get into graduate school",
