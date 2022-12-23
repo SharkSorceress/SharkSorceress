@@ -1,77 +1,57 @@
-<p align="center">
-  <a href="https://sriley.dev"><img src="./GHBanner_v3.png" width="65%"></a>
-<br>
-  <hr>
-  <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student+at+Montana+State;Second+line+of+text)](https://git.io/typing-svg)
- -->
-<a href="https://www.buymeacoffee.com/pharaohcola13"><img src="https://github.com/k4m4/donations/blob/master/images/badge.svg" alt="Donations Badge" height="28"></a>&nbsp;&nbsp;
-<a href="https://board.sriley.dev" target="_blank"><img src="https://img.shields.io/badge/My%20Dev%20Board-007AC0?style=for-the-badge&logo=Trello&logoColor=white"></a>
-</p>
-
-
-<div style="width: 25%">
-  
-- 🔭 Previously worked on:
-  - [pacviz: A vizualisation package for R](https://pacviz.sriley.dev)
-  - [A computational tool for atmospheric science](https://docs.pmat.app)
-- 🌱 I'm currently learning numerical simulation methods to study magnetohydrodynamics. 
-- 📫 Anyone can reach me via email: academic@sriley.dev
-- 🥅 2023 Goals:
-  - [ ] Find some good recipes
-  - [ ] Pass my Qualifying Exams
-  - [ ] Finish PMAT V3.0 (Guess I didn't finish this yet)
-  - [ ] Have two papers published in academic journals
-    - [x] [Published!](https://doi.org/10.5194/amt-15-1563-2022)
-    - [ ] [Here is a draft of another paper we are working on](https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf)
-- ⚡ Fun Fact: My favorate animal is the whale shark
-
-</div>
-<div align="left">
-  <h3>Development Experience</h3>
-  <a href="#"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;</a>
-
-</div>
-
-<div align="left">
-  <h3>Frameworks and CI</h3>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;</a>
-</div>
-
-<div align="left">
-  <h3>Technologies</h3>
-  <a href="#"><img src="https://img.shields.io/badge/raspberry%20pi%20-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/arduino%20-%23009790.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/google%20cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;</a>
-</div>
-
-<div align="left">
-  <h3>Currently Learning</h3>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/TenosrFlow%20Quantum-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;</a>
-  <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;</a>
-</div>
-
----
-
-<div align="left">
-  <h3>Profiles</h3>
+<div>
+<img align='left' src="https://media2.giphy.com/media/3o7TKGMEexYBEhuoGk/giphy.gif" width="350">
+<h1>Spencer Riley</h1>
+  <p>
+    Long time open source developer. Recent graduate student at Montana State University. Prospective solar physicist.
+  </p>
   <a href="https://sriley.dev">
-    <img src="https://img.shields.io/badge/website%20-%234285F4.svg?&style=for-the-badge&logo=chrome&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://rgate.sriley.dev">
-    <img src="https://img.shields.io/badge/ResearchGate%20-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white"/>
-  </a>&nbsp;&nbsp;
+    <img title="My Webpage" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/>
+ </a>
+ <a href="https://board.sriley.dev">
+    <img title="My Dev Board" src="https://img.shields.io/badge/Trello-0052CC.svg?&style=flat-square&logo=Trello&logoColor=white"/>
+ </a>
+ <a href="https://rgate.sriley.dev">       
+   <img title="My ResearchGate Profile" src="https://img.shields.io/badge/-ResearchGate-%2300CCBB.svg?&style=flat-square&logo=researchgate&logoColor=white"/>
+  </a>
   <a href="https://orcid.org/0000-0001-7949-9163">
-    <img src="https://img.shields.io/badge/ORCID%20-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white"/>
+    <img title="My ORCID Profile" src="https://img.shields.io/badge/ORCID%20-%23A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
+  </a>
+  <br>
+   <a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PharaohCola13?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/PharaohCola13?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PharaohCola13?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&logoColor=white"/>
   </a>
 </div>
+<br>
+<hr>
+<!-- <img align='right' src="https://github.com/PharaohCola13/PharaohCola13/blob/master/octocat.png?raw=true" width="200"> -->
+
+```R
+  about.me <- function(...){
+    ifelse(pronouns, "He", "Him")
+  
+    Languages <- c("Python", "R", "LaTeX", "JavaScript", "HTML", "Flutter", "C", "IDL")
+    FrameWorks <- c("Docker", "Jupyter", "Kubernetes")
+    CI <- c("GitHub Actions")
+
+    currently.learning <- "Numerical simulation methods to study magnetohydrodynamics."
+
+    goals.todo <- list(year.2023=list("[ ] Finish writing stuff for my blog",
+                                      "[ ] Find some good recipes", 
+                                      "[ ] Pass my Doctoral Qualifying Exams",
+                                      "[ ] Finish PMAT V3.0 (Guess I didn't finish this yet)",
+    # Paper draft is available https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf
+                                      "[ ] Finish a paper for the Journal of Open Source Software"))
+    goals.completed <- list(year.2023=list(),
+                            year.2022=list("[x] Get into graduate school",
+    # Paper is available at https://doi.org/10.5194/amt-15-1563-2022
+                                           "[x] Published first paper"))
+                                            
+    fun.fact <- "My favorate animal is the whale shark"
+  }
+  
+  about.me()
+  
+```
