@@ -14,9 +14,9 @@
   <a href="mailto:academic@sriley.dev">
     <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/academic@sriley.dev-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=mail"/>
   </a>
-    <a href="https://nonsense.sriley.dev">
+<!--     <a href="https://nonsense.sriley.dev">
     <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/Blog-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=light-bulb"/>
-  </a>
+  </a> -->
   <br>
  <a href="https://board.sriley.dev">
     <img title="My Dev Board" src="https://img.shields.io/badge/Trello-0052CC.svg?&style=flat-square&logo=Trello&logoColor=white"/>
