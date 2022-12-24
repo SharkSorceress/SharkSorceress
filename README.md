@@ -64,6 +64,6 @@
   
 ```
 <hr>
-<h3>Images of Messier 78 :telescope:</h3>
-<img align="left" src="./M78.png" width="400">
-<img align='right' src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=3" width="400">
+<h3 align='left' width='48%'>Images of Messier 78 :telescope:</h3>
+<img align="left" src="./M78.png" width="48%">
+<img align='right' src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=3" width="48%">
