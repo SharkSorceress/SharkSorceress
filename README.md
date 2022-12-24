@@ -6,13 +6,16 @@
   </i>
   <br><br>
   <a href="https://sriley.dev">
-    <img title="My Webpage" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/>
+    <img title="My Webpage" src="https://img.shields.io/badge/sriley.dev-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/>
  </a>
   <a href="https://cv.sriley.dev">
     <img title="My CV" src="https://custom-icon-badges.demolab.com/badge/CV-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=log"/>
   </a>
   <a href="mailto:academic@sriley.dev">
-    <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/Email%20<academic@sriley.dev>-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=mail"/>
+    <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/academic@sriley.dev-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=mail"/>
+  </a>
+    <a href="https://nonsense.sriley.dev">
+    <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/Blog-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=light-bulb"/>
   </a>
   <br>
  <a href="https://board.sriley.dev">
@@ -39,7 +42,7 @@
   about.me <- function(...){
     ifelse(pronouns, "He", "Him")
   
-    Languages <- c("Python", "R", "LaTeX", "JavaScript", "HTML", "Flutter", "C", "IDL")
+    Languages <- c("C", "Fluter", "HTML", "IDL", "JavaScript", "LaTeX", "Python", "R", "Shell")
     FrameWorks <- c("Docker", "Jupyter", "Kubernetes")
     CI <- c("GitHub Actions")
 
