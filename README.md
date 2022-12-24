@@ -1,5 +1,5 @@
 <div>
-<img align='left' src="https://media2.giphy.com/media/3o7TKGMEexYBEhuoGk/giphy.gif" width="400">
+<img align='left' src="https://media2.giphy.com/media/3o7TKGMEexYBEhuoGk/giphy.gif" width="350">
 <h1>:rainbow: Spencer Riley</h1>
   <i>
     Long time open-source developer. First-year graduate student at Montana State University. Prospective solar physicist.
@@ -14,11 +14,8 @@
   <a href="mailto:academic@sriley.dev">
     <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/academic@sriley.dev-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=mail"/>
   </a>
-<!--     <a href="https://nonsense.sriley.dev">
-    <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/Blog-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=light-bulb"/>
-  </a> -->
   <br>
- <a href="https://board.sriley.dev">
+<a href="https://board.sriley.dev">
     <img title="My Dev Board" src="https://img.shields.io/badge/Trello-0052CC.svg?&style=flat-square&logo=Trello&logoColor=white"/>
  </a>
  <a href="https://rgate.sriley.dev">       
@@ -27,13 +24,15 @@
   <a href="https://orcid.org/0000-0001-7949-9163">
     <img title="My ORCID Profile" src="https://img.shields.io/badge/ORCID-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
   </a>
+  </div>
   <br>
-  <a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PharaohCola13?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/PharaohCola13?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PharaohCola13?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&logoColor=white"/>
-  </a>
+  <div align="center">
+    <a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PharaohCola13?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
+    </a>
+    <a href="https://github.com/PharaohCola13?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PharaohCola13?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&logoColor=white"/>
+    </a>
 </div>
 <hr>
 <!-- <img align='right' src="https://github.com/PharaohCola13/PharaohCola13/blob/master/octocat.png?raw=true" width="200"> -->
@@ -65,6 +64,7 @@
   about.me()
   
 ```
-<div align="center">
-  <img align='center' src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=-1">
-</div>
+<hr>
+
+<img align="left" src="./M78.png" width="500">
+<img align='right' src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=3" width="400">
