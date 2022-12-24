@@ -25,8 +25,7 @@
     <img title="My ORCID Profile" src="https://img.shields.io/badge/ORCID-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
   </a>
   </div>
-  <br>
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PharaohCola13?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
     </a>
@@ -65,6 +64,6 @@
   
 ```
 <hr>
-
-<img align="left" src="./M78.png" width="500">
+<h3>Images of Messier 78 :telescope:</h3>
+<img align="left" src="./M78.png" width="400">
 <img align='right' src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=3" width="400">
