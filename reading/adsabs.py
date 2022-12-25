@@ -6,6 +6,6 @@ for lines in f.readlines():
         ads.config.token = os.environ['ADSABS_TOKEN']
         papers = list(ads.SearchQuery(q=titles, sort="year"))
         first_paper = papers[0]
-        print("https://ui.adsabs.harvard.edu/abs/" + first_paper.bibcode +  "/abstract")
+        print("[" + lines + "](https://ui.adsabs.harvard.edu/abs/" + first_paper.bibcode +  "/abstract)")
 
 
