@@ -1,9 +1,25 @@
 import ads, os
+import requests
+import json
 
-f = open("reading/reading.txt", "r")
+board_url = "https://trello.com/b/lHYXexvL/development-tasks.json"
+board_reponse = requests.get(board_url)
+
+board_json = json.loads(board_reponse.content)
+
+for i in range(0, len(list(board_json['lists']))):
+        if board_json["cards"][i]["name"] == "github-reading-list":
+                card_id = board_json["cards"][i]["id"]
+
+url = "https://trello.com/card/" + card_id + ".json"
+
+response = requests.get(url)
+
+reading_list = json.loads(response.content)["desc"].splitlines()
+
 book = ":blue_book:"
-for lines in f.readlines():
-        if lines == "---\n":
+for lines in list(filter(None, reading_list)):
+        if lines == "---":
                 book = ":notebook_with_decorative_cover:"
         else:
                 titles=lines[lines.find("[")+1:lines.find("]")]
