@@ -1,6 +1,6 @@
 import ads
 
-f = open("/reading/reading.txt", "r")
+f = open("{github_workspace}/reading/reading.txt", "r")
 for lines in f.readlines():
         titles=lines[lines.find("[")+1:lines.find("]")]
         ads.config.token = '{ADSABS_TOKEN}'
