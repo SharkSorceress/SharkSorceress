@@ -19,7 +19,8 @@ jobs:
         ls reading/
         python reading/adsabs.py > tmp.txt
         sed -i '/<!-- READINGLIST:START -->/,/<!-- READINGLIST:END -->/d' README.md
-        echo '<!-- READINGLIST:START -->\n' >> README.md
+        echo '<!-- READINGLIST:START -->' >> README.md
+        echo ' ' >> README.md
         cat tmp.txt >> README.md
         echo '<!-- READINGLIST:END -->' >> README.md
     - name: stage changed files
