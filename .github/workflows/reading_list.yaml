@@ -12,7 +12,9 @@ jobs:
         python-version: '3.10' 
     - run: |
         pip install ads
-        python /reading/adsabs.py > tmp.txt
+        ls
+        ls reading/
+        python reading/adsabs.py > tmp.txt
         sed -i '/<!-- READINGLIST:START -->/,/<!-- READINGLIST:END -->/d' README.md
         echo '<!-- READINGLIST:START -->' >> README.md
         cat tmp.txt >> README.md
