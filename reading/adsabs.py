@@ -1,4 +1,4 @@
-import ads
+import ads, os
 
 f = open("reading/reading.txt", "r")
 for lines in f.readlines():
