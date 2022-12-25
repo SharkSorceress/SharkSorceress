@@ -83,8 +83,6 @@
 <h3> Currently Reading </h3>
 <!-- READINGLIST:START -->
  
-- [Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]
-](https://ui.adsabs.harvard.edu/abs/2008ApJ...682.1351K/abstract)
 - [Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]
 ](https://ui.adsabs.harvard.edu/abs/2013ApJ...770..111L/abstract)
 - [Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]
