@@ -11,7 +11,7 @@ jobs:
       with:
         python-version: '3.10' 
     - run: |
-        python reading/adsabd.py > tmp.txt
+        python reading/adsabs.py > tmp.txt
         sed -i '/<!-- READINGLIST:START -->/,/<!-- READINGLIST:END -->/d' README.md
         echo '<!-- READINGLIST:START -->' >> README.md
         cat tmp.txt >> README.md
