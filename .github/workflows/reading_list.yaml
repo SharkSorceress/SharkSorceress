@@ -1,6 +1,8 @@
 name: Update Reading List
-on: [workflow_dispatch, push]
-  
+on:
+  push:
+    paths:
+      - 'reading/reading.txt'
   
 jobs:
   update_reading:
@@ -15,8 +17,6 @@ jobs:
         ADSABS_TOKEN: ${{ secrets.ADSABS_TOKEN }}
       run: |
         pip install ads
-        ls
-        ls reading/
         python reading/adsabs.py > tmp.txt
         sed -i '/<!-- READINGLIST:START -->/,/<!-- READINGLIST:END -->/d' README.md
         echo '<!-- READINGLIST:START -->' >> README.md
