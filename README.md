@@ -68,18 +68,6 @@
   
 ```
 <hr>
-<h3> Currently Reading </h3>
-<!-- READINGLIST:START -->
-- Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]
-- Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]
-- Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]
-- Priya_2018: [Observations of Running Penumbral Waves Emerging in a Sunspot]
-- Freij_2014: [The Detection of Upwardly Propagating Waves Channeling Energy from the Chromosphere to the Low Corona]
-- Bicz_2022: [Starspot Modeling and Flare Analysis on Selected Main-sequence M-type Stars]
-- Cargill_2006: [On the Temperature-Emission Measure Distribution in Stellar Coronae]
-- Lynch_2022: [Connecting Solar and Stellar Flares/CMEs: Expanding Heliophysics to Encompass Exoplanetary Space Weather]
-<!-- READINGLIST:END -->
-<hr>
 
 <table>
   <tr>
@@ -91,3 +79,16 @@
     <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=4" ></td>
   </tr>
 </table>
+<hr>
+<h3> Currently Reading </h3>
+<!-- READINGLIST:START -->
+
+- Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]
+- Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]
+- Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]
+- Priya_2018: [Observations of Running Penumbral Waves Emerging in a Sunspot]
+- Freij_2014: [The Detection of Upwardly Propagating Waves Channeling Energy from the Chromosphere to the Low Corona]
+- Bicz_2022: [Starspot Modeling and Flare Analysis on Selected Main-sequence M-type Stars]
+- Cargill_2006: [On the Temperature-Emission Measure Distribution in Stellar Coronae]
+- Lynch_2022: [Connecting Solar and Stellar Flares/CMEs: Expanding Heliophysics to Encompass Exoplanetary Space Weather]
+<!-- READINGLIST:END -->
