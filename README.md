@@ -1,16 +1,13 @@
 
-<table>
-  <tr>
-    <td width="50%" align="center" ><img src="https://media2.giphy.com/media/3o7TKGMEexYBEhuoGk/giphy.gif"></td>
-    <td width="50%" style="vertical-align: top;">
-      <h1>:rainbow: Spencer Riley</h1>
-        <i>
-          Long time open-source developer. First-year graduate student at Montana State University. Prospective solar physicist.
-        </i>
-      <br><br><br><br><br><br><br>
-  </td>
-  </tr>
-</table>
+<img align="left" width="40%" src="https://media2.giphy.com/media/3o7TKGMEexYBEhuoGk/giphy.gif">
+<h1>:rainbow: Spencer Riley</h1>
+<i>
+  <b>
+  Long time open-source developer. First-year graduate student at Montana State University. Prospective solar physicist.
+</i>
+<br><br><br><br>
+<hr>
+<div align="center">
 <a href="https://sriley.dev">
     <img title="My Webpage" src="https://img.shields.io/badge/sriley.dev-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/>
 </a>
@@ -28,7 +25,7 @@
   <img title="My ResearchGate Profile" src="https://img.shields.io/badge/-ResearchGate-00CCBB.svg?&style=flat-square&logo=researchgate&logoColor=white"/>
 </a>
 <a href="https://orcid.org/0000-0001-7949-9163">
-  <img title="My ORCID Profile" src="https://img.shields.io/badge/ORCID-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
+  <img title="My ORCID Profile" src="https://img.shields.io/badge/0000&#8208;0001&#8208;7949&#8208;9163-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
 </a>
 <br>
 <a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
@@ -37,6 +34,7 @@
     <a href="https://github.com/PharaohCola13?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PharaohCola13?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&logoColor=white"/>
     </a>
+</div>
 <hr>
 <h3>A Bit About Me</h3>
 
@@ -68,19 +66,8 @@
   
 ```
 <hr>
-
-<table>
-  <tr>
-    <th><h3>Images of Messier 78 :telescope:</h3></th>
-    <th><h3>Trophies</h3></th>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="./M78_woback.png"></td>
-    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=4" ></td>
-  </tr>
-</table>
-<hr>
-<h3> Currently Reading </h3>
+<details>
+<summary><h3> Currently Reading </h3></summary>
 <!-- READINGLIST:START -->
  
 :blue_book:[Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]](https://ui.adsabs.harvard.edu/abs/2008ApJ...682.1351K/abstract)
@@ -100,5 +87,17 @@
 :notebook_with_decorative_cover:[Cargill_2006: [On the Temperature-Emission Measure Distribution in Stellar Coronae]](https://ui.adsabs.harvard.edu/abs/2006ApJ...643..438C/abstract)
 
 :notebook_with_decorative_cover:[Lynch_2022: [Connecting Solar and Stellar Flares/CMEs: Expanding Heliophysics to Encompass Exoplanetary Space Weather]](https://ui.adsabs.harvard.edu/abs/2022arXiv221006476L/abstract)
-
 <!-- READINGLIST:END -->
+</details>
+<hr>
+
+<table>
+  <tr>
+    <th><h3>Images of Messier 78 :telescope:</h3></th>
+    <th><h3>Trophies</h3></th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="./M78_woback.png"></td>
+    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=4" ></td>
+  </tr>
+</table>
