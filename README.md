@@ -83,28 +83,20 @@
 <h3> Currently Reading </h3>
 <!-- READINGLIST:START -->
  
-:blue_book:[Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]
-](https://ui.adsabs.harvard.edu/abs/2008ApJ...682.1351K/abstract)
+:blue_book:[Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]](https://ui.adsabs.harvard.edu/abs/2008ApJ...682.1351K/abstract)
 
-:blue_book:[Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]
-](https://ui.adsabs.harvard.edu/abs/2013ApJ...770..111L/abstract)
+:blue_book:[Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]](https://ui.adsabs.harvard.edu/abs/2013ApJ...770..111L/abstract)
 
-:blue_book:[Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]
-](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...13R/abstract)
+:blue_book:[Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...13R/abstract)
 
-:notebook_with_decorative_cover:[Priya_2018: [Observations of Running Penumbral Waves Emerging in a Sunspot]
-](https://ui.adsabs.harvard.edu/abs/2018ApJ...852...15P/abstract)
+:notebook_with_decorative_cover:[Mason\_2019: [Observations of Solar Coronal Rain in Null Point Topologies] Priya\_2018: [Observations of Running Penumbral Waves Emerging in a Sunspot]](https://ui.adsabs.harvard.edu/abs/2019ApJ...874L..33M/abstract)
 
-:notebook_with_decorative_cover:[Freij_2014: [The Detection of Upwardly Propagating Waves Channeling Energy from the Chromosphere to the Low Corona]
-](https://ui.adsabs.harvard.edu/abs/2014ApJ...791...61F/abstract)
+:notebook_with_decorative_cover:[Freij_2014: [The Detection of Upwardly Propagating Waves Channeling Energy from the Chromosphere to the Low Corona]](https://ui.adsabs.harvard.edu/abs/2014ApJ...791...61F/abstract)
 
-:notebook_with_decorative_cover:[Bicz_2022: [Starspot Modeling and Flare Analysis on Selected Main-sequence M-type Stars]
-](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..102B/abstract)
+:notebook_with_decorative_cover:[Bicz_2022: [Starspot Modeling and Flare Analysis on Selected Main-sequence M-type Stars]](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..102B/abstract)
 
-:notebook_with_decorative_cover:[Cargill_2006: [On the Temperature-Emission Measure Distribution in Stellar Coronae]
-](https://ui.adsabs.harvard.edu/abs/2006ApJ...643..438C/abstract)
+:notebook_with_decorative_cover:[Cargill_2006: [On the Temperature-Emission Measure Distribution in Stellar Coronae]](https://ui.adsabs.harvard.edu/abs/2006ApJ...643..438C/abstract)
 
-:notebook_with_decorative_cover:[Lynch_2022: [Connecting Solar and Stellar Flares/CMEs: Expanding Heliophysics to Encompass Exoplanetary Space Weather]
-](https://ui.adsabs.harvard.edu/abs/2022arXiv221006476L/abstract)
+:notebook_with_decorative_cover:[Lynch_2022: [Connecting Solar and Stellar Flares/CMEs: Expanding Heliophysics to Encompass Exoplanetary Space Weather]](https://ui.adsabs.harvard.edu/abs/2022arXiv221006476L/abstract)
 
 <!-- READINGLIST:END -->
