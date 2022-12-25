@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'reading/reading.txt'
+  workflow_dispatch:
   
 jobs:
   update_reading:
