@@ -81,7 +81,8 @@
 </table>
 <hr>
 <h3> Currently Reading </h3>
-<!-- READINGLIST:START -->\n
+<!-- READINGLIST:START -->
+ 
 - [Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]
 ](https://ui.adsabs.harvard.edu/abs/2008ApJ...682.1351K/abstract)
 - [Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]
