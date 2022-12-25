@@ -89,7 +89,9 @@
 
 :blue_book:[Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...13R/abstract)
 
-:notebook_with_decorative_cover:[Mason\_2019: [Observations of Solar Coronal Rain in Null Point Topologies] Priya\_2018: [Observations of Running Penumbral Waves Emerging in a Sunspot]](https://ui.adsabs.harvard.edu/abs/2019ApJ...874L..33M/abstract)
+:notebook_with_decorative_cover:[Mason_2019: [Observations of Solar Coronal Rain in Null Point Topologies]](https://ui.adsabs.harvard.edu/abs/2019ApJ...874L..33M/abstract)
+
+:notebook_with_decorative_cover:[Priya_2018: [Observations of Running Penumbral Waves Emerging in a Sunspot]](https://ui.adsabs.harvard.edu/abs/2018ApJ...852...15P/abstract)
 
 :notebook_with_decorative_cover:[Freij_2014: [The Detection of Upwardly Propagating Waves Channeling Energy from the Chromosphere to the Low Corona]](https://ui.adsabs.harvard.edu/abs/2014ApJ...791...61F/abstract)
 
