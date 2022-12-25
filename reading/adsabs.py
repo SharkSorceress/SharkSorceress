@@ -3,7 +3,7 @@ import ads, os
 f = open("reading/reading.txt", "r")
 book = ":blue_book:"
 for lines in f.readlines():
-        if lines == "---":
+        if lines == "---\n":
                 book = ":notebook_with_decorative_cover:"
         else:
                 titles=lines[lines.find("[")+1:lines.find("]")]
