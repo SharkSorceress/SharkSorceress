@@ -1,8 +1,5 @@
 name: Update Reading List
 on:
-  push:
-    paths:
-      - 'reading/reading.txt'
   workflow_dispatch:
   
 jobs:
