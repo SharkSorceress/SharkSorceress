@@ -13,13 +13,11 @@ jobs:
       with:
         python-version: '3.10' 
     - name: Run the stuff
-      env: 
-        SDO_CHANNEL: 1600
       run: |
         pip install moviepy
         python py/sdogif.py
     - name: stage changed files
-      run: git add README.md
+      run: git add sdo_vid.gif
     - name: Commit files
       run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
