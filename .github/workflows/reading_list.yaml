@@ -15,7 +15,7 @@ jobs:
         ADSABS_TOKEN: ${{ secrets.ADSABS_TOKEN }}
       run: |
         pip install ads
-        python reading/adsabs.py > tmp.txt
+        python py/adsabs.py > tmp.txt
         sed -n -i '1,/<!-- READINGLIST:START -->/p;/<!-- READINGLIST:END -->/,$p' README.md
         sed -i -e '/<!-- READINGLIST:START -->/r tmp.txt' README.md
         sed -i -e '/<!-- READINGLIST:START -->/a \ ' README.md
