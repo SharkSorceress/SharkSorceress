@@ -1,0 +1,32 @@
+name: Daily SDO Run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 23 * *'
+  
+jobs:
+  update_reading:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-python@master
+      with:
+        python-version: '3.10' 
+    - name: Run the stuff
+      env: 
+        SDO_CHANNEL: 1600
+      run: |
+        pip install ads
+        python py/sdogif.py
+    - name: stage changed files
+      run: git add README.md
+    - name: Commit files
+      run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Updating sdo video" -a
+          git pull
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
