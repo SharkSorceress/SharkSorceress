@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <td width="50%"><img align="center" src="./sdo_vid.gif"></td>
+    <td width="50%"><img align="center" src="./sdo_vid_1.gif"></td>
     <td width="50%" align="left"><h1>:rainbow: Spencer Riley</h1>
       <i>
         Long time open-source developer. First-year graduate student at Montana State University. Prospective solar physicist.
