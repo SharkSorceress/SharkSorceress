@@ -2,7 +2,7 @@ name: Daily SDO Run
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 23 * *'
+    - cron: '0 23 * * *'
   
 jobs:
   update_reading:
@@ -16,7 +16,7 @@ jobs:
       env: 
         SDO_CHANNEL: 1600
       run: |
-        pip install ads
+        pip install moviepy
         python py/sdogif.py
     - name: stage changed files
       run: git add README.md
