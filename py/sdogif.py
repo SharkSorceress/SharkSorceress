@@ -9,5 +9,5 @@ url = "https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_512_" + str(chann
 print(url)
 
 urllib.request.urlretrieve(url, "sdo_vid.mp4")
-videoClip = VideoFileClip("sdo_vid.mp4")
-videoClip.speedx(3).fadein(1).fadeout(1).write_gif("sdo_vid.gif", fps=10)
+videoClip = VideoFileClip("sdo_vid.mp4").resize(height=256)
+videoClip.speedx(2).fadeout(0.5).write_gif("sdo_vid.gif", fps=10)
