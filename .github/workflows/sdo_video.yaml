@@ -5,7 +5,7 @@ on:
     - cron: '0 23 * * *'
   
 jobs:
-  update_reading:
+  sdo_preview:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
