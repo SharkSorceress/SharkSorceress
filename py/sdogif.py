@@ -10,4 +10,4 @@ print(url)
 
 urllib.request.urlretrieve(url, "sdo_vid.mp4")
 videoClip = VideoFileClip("sdo_vid.mp4")
-videoClip.speedx(10).write_gif("sdo_vid.gif", fps=10)
+videoClip.speedx(3).fadein(1).fadeout(1).write_gif("sdo_vid.gif", fps=10)
