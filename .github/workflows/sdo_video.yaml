@@ -2,7 +2,7 @@ name: Daily SDO Run
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 0 * * *'
   
 jobs:
   sdo_preview:
