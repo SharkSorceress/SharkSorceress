@@ -91,6 +91,7 @@
 :notebook_with_decorative_cover:[Cargill_2006: [On the Temperature-Emission Measure Distribution in Stellar Coronae]](https://ui.adsabs.harvard.edu/abs/2006ApJ...643..438C/abstract)
 
 :notebook_with_decorative_cover:[Lynch_2022: [Connecting Solar and Stellar Flares/CMEs: Expanding Heliophysics to Encompass Exoplanetary Space Weather]](https://ui.adsabs.harvard.edu/abs/2022arXiv221006476L/abstract)
+
 <!-- READINGLIST:END -->
 </details>
 <hr>
