@@ -32,11 +32,11 @@ for lines in list(filter(None, reading_list)):
                 print(book + "[" + lines + "](https://ui.adsabs.harvard.edu/abs/" + first_paper.bibcode +  "/abstract)\n")
                 text += str(first_paper._get_field("abstract"))
 
-text = ' '.join( [w for w in text.split() if "SUP" not in w] )
+# text = ' '.join( [w for w in text.split() if "SUP" not in w] )
                 
-wordcloud = WordCloud(include_numbers=False, min_word_length=3, colormap='plasma').generate(text)
-wordcloud.to_file("wordcloud.png")
-wordcloud_svg = wordcloud.to_svg("wordcloud.png")
-f = open("wordcloud.svg","w+")
-f.write(wordcloud_svg)
-f.close()
+# wordcloud = WordCloud(include_numbers=False, min_word_length=3, colormap='plasma').generate(text)
+# wordcloud.to_file("wordcloud.png")
+# wordcloud_svg = wordcloud.to_svg("wordcloud.png")
+# f = open("wordcloud.svg","w+")
+# f.write(wordcloud_svg)
+# f.close()
