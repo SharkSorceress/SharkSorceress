@@ -14,13 +14,13 @@ jobs:
       env: 
         ADSABS_TOKEN: ${{ secrets.ADSABS_TOKEN }}
       run: |
-        pip install ads
+        pip install ads wordcloud
         python py/adsabs.py > tmp.txt
         sed -n -i '1,/<!-- READINGLIST:START -->/p;/<!-- READINGLIST:END -->/,$p' README.md
         sed -i -e '/<!-- READINGLIST:START -->/r tmp.txt' README.md
         sed -i -e '/<!-- READINGLIST:START -->/a \ ' README.md
     - name: stage changed files
-      run: git add README.md
+      run: git add README.md wordcloud.svg
     - name: Commit files
       run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
