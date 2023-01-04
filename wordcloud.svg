@@ -1,129 +1,128 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
-<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
 <style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
 <rect width="100%" height="100%" style="fill:black"></rect>
-<text transform="translate(7,126)" font-size="86" style="fill:rgb(81, 2, 163)">coronal</text>
-<text transform="translate(150,184)" font-size="73" style="fill:rgb(94, 1, 166)">solar</text>
-<text transform="translate(79,59)" font-size="73" style="fill:rgb(251, 162, 56)">flare</text>
-<text transform="translate(3,187)" font-size="36" style="fill:rgb(76, 2, 161)">stellar</text>
-<text transform="translate(392,150) rotate(-90)" font-size="35" style="fill:rgb(231, 111, 90)">model</text>
-<text transform="translate(309,27)" font-size="34" style="fill:rgb(40, 5, 146)">loop</text>
-<text transform="translate(1,151)" font-size="32" style="fill:rgb(179, 44, 142)">observed</text>
-<text transform="translate(3,44)" font-size="25" style="fill:rgb(252, 206, 37)">energy</text>
-<text transform="translate(20,64)" font-size="25" style="fill:rgb(188, 53, 135)">wave</text>
-<text transform="translate(1,17)" font-size="22" style="fill:rgb(245, 233, 38)">corona</text>
-<text transform="translate(86,74)" font-size="19" style="fill:rgb(190, 56, 133)">surface</text>
-<text transform="translate(309,46)" font-size="18" style="fill:rgb(252, 208, 37)">using</text>
-<text transform="translate(345,180)" font-size="18" style="fill:rgb(221, 94, 102)">spot</text>
-<text transform="translate(193,71)" font-size="15" style="fill:rgb(38, 5, 145)">heating</text>
-<text transform="translate(170,12)" font-size="14" style="fill:rgb(231, 110, 91)">plasma</text>
-<text transform="translate(226,15)" font-size="14" style="fill:rgb(251, 215, 36)">evolution</text>
-<text transform="translate(264,71)" font-size="14" style="fill:rgb(156, 23, 158)">time</text>
-<text transform="translate(205,196)" font-size="14" style="fill:rgb(246, 143, 68)">distribution</text>
-<text transform="translate(337,140)" font-size="14" style="fill:rgb(210, 79, 113)">used</text>
-<text transform="translate(314,195)" font-size="14" style="fill:rgb(219, 92, 104)">minute</text>
-<text transform="translate(27,100)" font-size="14" style="fill:rgb(46, 5, 149)">RPWs</text>
-<text transform="translate(53,74)" font-size="14" style="fill:rgb(240, 247, 36)">CME</text>
-<text transform="translate(8,194)" font-size="9" style="fill:rgb(214, 85, 109)">transition region</text>
-<text transform="translate(107,194)" font-size="9" style="fill:rgb(222, 95, 101)">light curve</text>
-<text transform="translate(356,111) rotate(-90)" font-size="9" style="fill:rgb(246, 232, 38)">flare loop</text>
-<text transform="translate(107,50)" font-size="8" style="fill:rgb(253, 194, 41)">flows</text>
-<text transform="translate(150,15)" font-size="8" style="fill:rgb(44, 5, 148)">new</text>
-<text transform="translate(302,140)" font-size="8" style="fill:rgb(143, 13, 164)">within</text>
-<text transform="translate(325,179) rotate(-90)" font-size="8" style="fill:rgb(152, 20, 160)">modeling</text>
-<text transform="translate(169,67)" font-size="8" style="fill:rgb(233, 113, 88)">rain</text>
-<text transform="translate(172,136)" font-size="8" style="fill:rgb(246, 143, 68)">observations</text>
-<text transform="translate(48,23)" font-size="8" style="fill:rgb(188, 53, 135)">present</text>
-<text transform="translate(343,166)" font-size="8" style="fill:rgb(150, 19, 161)">umbral</text>
-<text transform="translate(4,27)" font-size="8" style="fill:rgb(94, 1, 166)">research</text>
-<text transform="translate(318,96)" font-size="8" style="fill:rgb(253, 174, 50)">star</text>
-<text transform="translate(154,48)" font-size="7" style="fill:rgb(243, 240, 39)">one</text>
-<text transform="translate(131,101)" font-size="7" style="fill:rgb(73, 3, 160)">thermal</text>
-<text transform="translate(173,157)" font-size="7" style="fill:rgb(68, 3, 158)">EBTEL</text>
-<text transform="translate(305,70)" font-size="7" style="fill:rgb(75, 3, 161)">heat</text>
-<text transform="translate(233,43)" font-size="7" style="fill:rgb(129, 4, 167)">two</text>
-<text transform="translate(136,119)" font-size="7" style="fill:rgb(181, 47, 140)">lower</text>
-<text transform="translate(377,194)" font-size="7" style="fill:rgb(226, 102, 96)">phase</text>
-<text transform="translate(103,32)" font-size="7" style="fill:rgb(207, 76, 116)">method</text>
-<text transform="translate(296,56)" font-size="7" style="fill:rgb(252, 169, 52)">structures</text>
-<text transform="translate(5,69)" font-size="7" style="fill:rgb(253, 174, 50)">presence</text>
-<text transform="translate(243,173) rotate(-90)" font-size="7" style="fill:rgb(88, 1, 164)">EBTEL3</text>
-<text transform="translate(132,162)" font-size="7" style="fill:rgb(40, 5, 146)">well</text>
-<text transform="translate(15,76)" font-size="7" style="fill:rgb(240, 249, 33)">HYDRAD</text>
-<text transform="translate(364,42)" font-size="7" style="fill:rgb(146, 15, 163)">solution</text>
-<text transform="translate(269,159)" font-size="7" style="fill:rgb(235, 117, 86)">data</text>
-<text transform="translate(173,192)" font-size="7" style="fill:rgb(231, 110, 91)">running</text>
-<text transform="translate(3,157)" font-size="6" style="fill:rgb(138, 9, 165)">umbral oscillatory</text>
-<text transform="translate(9,132) rotate(-90)" font-size="6" style="fill:rgb(249, 221, 37)">oscillatory event</text>
-<text transform="translate(81,156)" font-size="5" style="fill:rgb(65, 4, 157)">theoretical</text>
-<text transform="translate(309,82)" font-size="5" style="fill:rgb(252, 165, 55)">impulsive</text>
-<text transform="translate(273,137)" font-size="5" style="fill:rgb(211, 81, 113)">spatial</text>
-<text transform="translate(274,75)" font-size="5" style="fill:rgb(252, 208, 37)">heated</text>
-<text transform="translate(36,105)" font-size="5" style="fill:rgb(136, 8, 166)">magnetic</text>
-<text transform="translate(365,153)" font-size="5" style="fill:rgb(173, 39, 147)">temperature</text>
-<text transform="translate(74,102)" font-size="5" style="fill:rgb(170, 35, 149)">strand</text>
-<text transform="translate(227,50)" font-size="5" style="fill:rgb(174, 40, 146)">studies</text>
-<text transform="translate(325,109)" font-size="5" style="fill:rgb(251, 213, 36)">high</text>
-<text transform="translate(200,76)" font-size="5" style="fill:rgb(201, 68, 122)">decay</text>
-<text transform="translate(150,24)" font-size="5" style="fill:rgb(252, 205, 37)">line</text>
-<text transform="translate(180,110)" font-size="5" style="fill:rgb(179, 44, 142)">event</text>
-<text transform="translate(205,27)" font-size="5" style="fill:rgb(253, 181, 46)">code</text>
-<text transform="translate(56,130)" font-size="5" style="fill:rgb(156, 23, 158)">EBTEL2</text>
-<text transform="translate(232,99)" font-size="5" style="fill:rgb(170, 35, 149)">show</text>
-<text transform="translate(54,116)" font-size="5" style="fill:rgb(97, 0, 167)">Sun</text>
-<text transform="translate(84,179)" font-size="5" style="fill:rgb(203, 70, 121)">SDO</text>
-<text transform="translate(267,93)" font-size="5" style="fill:rgb(34, 6, 144)">center</text>
-<text transform="translate(130,108)" font-size="5" style="fill:rgb(215, 86, 108)">UPWs</text>
-<text transform="translate(274,45)" font-size="5" style="fill:rgb(110, 0, 168)">spottedness</text>
-<text transform="translate(294,31)" font-size="5" style="fill:rgb(246, 232, 38)">active region</text>
-<text transform="translate(235,144) rotate(-90)" font-size="5" style="fill:rgb(250, 216, 36)">magnetic field</text>
-<text transform="translate(93,130)" font-size="5" style="fill:rgb(240, 247, 36)">emission measure</text>
-<text transform="translate(116,123) rotate(-90)" font-size="5" style="fill:rgb(249, 154, 62)">mean temperature</text>
-<text transform="translate(324,115)" font-size="4" style="fill:rgb(105, 0, 168)">field</text>
-<text transform="translate(356,116)" font-size="4" style="fill:rgb(161, 27, 155)">single</text>
-<text transform="translate(9,162)" font-size="4" style="fill:rgb(253, 202, 38)">three</text>
-<text transform="translate(362,184)" font-size="4" style="fill:rgb(163, 30, 154)">dimensional</text>
-<text transform="translate(362,80)" font-size="4" style="fill:rgb(19, 7, 137)">MHD</text>
-<text transform="translate(167,197)" font-size="4" style="fill:rgb(60, 4, 155)">resolution</text>
-<text transform="translate(187,141)" font-size="4" style="fill:rgb(234, 116, 87)">hydrodynamic</text>
-<text transform="translate(252,39) rotate(-90)" font-size="4" style="fill:rgb(252, 168, 53)">many</text>
-<text transform="translate(271,147)" font-size="4" style="fill:rgb(218, 90, 106)">along</text>
-<text transform="translate(137,38) rotate(-90)" font-size="4" style="fill:rgb(248, 149, 64)">based</text>
-<text transform="translate(264,163)" font-size="4" style="fill:rgb(248, 225, 37)">pressure</text>
-<text transform="translate(41,48)" font-size="4" style="fill:rgb(72, 3, 159)">provides</text>
-<text transform="translate(331,179) rotate(-90)" font-size="4" style="fill:rgb(13, 8, 135)">simulations</text>
-<text transform="translate(380,160)" font-size="4" style="fill:rgb(32, 6, 143)">analyze</text>
-<text transform="translate(105,162)" font-size="4" style="fill:rgb(249, 152, 62)">determine</text>
-<text transform="translate(105,59)" font-size="4" style="fill:rgb(226, 101, 97)">release</text>
-<text transform="translate(163,32)" font-size="4" style="fill:rgb(251, 159, 58)">reconnection</text>
-<text transform="translate(268,147) rotate(-90)" font-size="4" style="fill:rgb(246, 232, 38)">impulsively</text>
-<text transform="translate(309,130)" font-size="4" style="fill:rgb(253, 200, 39)">formed</text>
-<text transform="translate(203,17)" font-size="4" style="fill:rgb(170, 35, 149)">footpoint</text>
-<text transform="translate(157,124)" font-size="4" style="fill:rgb(254, 184, 44)">paper</text>
-<text transform="translate(45,164)" font-size="4" style="fill:rgb(111, 0, 168)">ray</text>
-<text transform="translate(371,5)" font-size="4" style="fill:rgb(240, 247, 36)">computed</text>
-<text transform="translate(157,135)" font-size="4" style="fill:rgb(212, 82, 112)">study</text>
-<text transform="translate(111,16)" font-size="4" style="fill:rgb(249, 151, 63)">estimated</text>
-<text transform="translate(58,81)" font-size="4" style="fill:rgb(211, 81, 113)">erg</text>
-<text transform="translate(74,108)" font-size="4" style="fill:rgb(230, 108, 92)">velocity</text>
-<text transform="translate(318,101)" font-size="4" style="fill:rgb(245, 233, 38)">system</text>
-<text transform="translate(157,41)" font-size="4" style="fill:rgb(40, 5, 146)">scale</text>
-<text transform="translate(397,146) rotate(-90)" font-size="4" style="fill:rgb(247, 226, 37)">null</text>
-<text transform="translate(345,33)" font-size="4" style="fill:rgb(235, 117, 86)">point</text>
-<text transform="translate(103,39)" font-size="4" style="fill:rgb(202, 69, 122)">Atmospheric</text>
-<text transform="translate(6,48)" font-size="4" style="fill:rgb(212, 82, 112)">required</text>
-<text transform="translate(239,60)" font-size="4" style="fill:rgb(148, 16, 162)">mechanism</text>
-<text transform="translate(290,21)" font-size="4" style="fill:rgb(174, 40, 146)">sunspot</text>
-<text transform="translate(53,28)" font-size="4" style="fill:rgb(252, 166, 54)">detection</text>
-<text transform="translate(210,168)" font-size="4" style="fill:rgb(201, 68, 122)">found</text>
-<text transform="translate(260,75)" font-size="4" style="fill:rgb(189, 55, 134)">first</text>
-<text transform="translate(215,108) rotate(-90)" font-size="4" style="fill:rgb(253, 175, 49)">support</text>
-<text transform="translate(387,171)" font-size="4" style="fill:rgb(204, 71, 120)">low</text>
-<text transform="translate(365,191)" font-size="4" style="fill:rgb(29, 6, 142)">CMi</text>
-<text transform="translate(165,76)" font-size="4" style="fill:rgb(253, 181, 46)">exoplanetary</text>
-<text transform="translate(336,5)" font-size="4" style="fill:rgb(180, 46, 141)">constrained</text>
-<text transform="translate(294,75)" font-size="4" style="fill:rgb(119, 1, 168)">enthalpy based</text>
-<text transform="translate(397,113) rotate(-90)" font-size="4" style="fill:rgb(16, 7, 136)">differential emission</text>
-<text transform="translate(152,141)" font-size="4" style="fill:rgb(249, 151, 63)">space weather</text>
-<text transform="translate(253,176) rotate(-90)" font-size="4" style="fill:rgb(210, 79, 113)">data inspired</text>
+<text transform="translate(1,98)" font-size="85" style="fill:rgb(246, 141, 69)">coronal</text>
+<text transform="translate(126,162)" font-size="72" style="fill:rgb(81, 2, 163)">solar</text>
+<text transform="translate(54,39)" font-size="50" style="fill:rgb(226, 102, 96)">flare</text>
+<text transform="translate(178,191)" font-size="37" style="fill:rgb(94, 1, 166)">stellar</text>
+<text transform="translate(3,191)" font-size="36" style="fill:rgb(254, 187, 43)">model</text>
+<text transform="translate(42,143)" font-size="34" style="fill:rgb(72, 3, 159)">loop</text>
+<text transform="translate(218,25)" font-size="32" style="fill:rgb(254, 189, 42)">observed</text>
+<text transform="translate(370,170) rotate(-90)" font-size="32" style="fill:rgb(215, 86, 108)">energy</text>
+<text transform="translate(109,185)" font-size="29" style="fill:rgb(132, 5, 167)">wave</text>
+<text transform="translate(386,196) rotate(-90)" font-size="28" style="fill:rgb(179, 44, 142)">corona</text>
+<text transform="translate(209,44)" font-size="25" style="fill:rgb(249, 221, 37)">surface</text>
+<text transform="translate(1,32)" font-size="20" style="fill:rgb(204, 71, 120)">using</text>
+<text transform="translate(343,40)" font-size="20" style="fill:rgb(246, 230, 38)">spot</text>
+<text transform="translate(54,114)" font-size="19" style="fill:rgb(245, 139, 71)">heating</text>
+<text transform="translate(25,170) rotate(-90)" font-size="19" style="fill:rgb(254, 183, 45)">plasma</text>
+<text transform="translate(241,115)" font-size="19" style="fill:rgb(196, 62, 127)">evolution</text>
+<text transform="translate(146,115)" font-size="19" style="fill:rgb(92, 1, 166)">time</text>
+<text transform="translate(29,159)" font-size="11" style="fill:rgb(251, 159, 58)">distribution</text>
+<text transform="translate(340,186)" font-size="11" style="fill:rgb(163, 30, 154)">used</text>
+<text transform="translate(126,195)" font-size="11" style="fill:rgb(173, 39, 147)">minute</text>
+<text transform="translate(316,154)" font-size="11" style="fill:rgb(193, 59, 130)">RPWs</text>
+<text transform="translate(369,54)" font-size="11" style="fill:rgb(253, 200, 39)">CME</text>
+<text transform="translate(117,46)" font-size="8" style="fill:rgb(83, 2, 163)">transition region</text>
+<text transform="translate(1,12)" font-size="8" style="fill:rgb(221, 94, 102)">light curve</text>
+<text transform="translate(28,46)" font-size="8" style="fill:rgb(254, 186, 44)">flare loop</text>
+<text transform="translate(129,84)" font-size="7" style="fill:rgb(22, 7, 138)">flows</text>
+<text transform="translate(312,57)" font-size="7" style="fill:rgb(237, 122, 82)">new</text>
+<text transform="translate(191,117)" font-size="7" style="fill:rgb(249, 152, 62)">within</text>
+<text transform="translate(315,161)" font-size="7" style="fill:rgb(157, 24, 157)">modeling</text>
+<text transform="translate(381,70)" font-size="7" style="fill:rgb(246, 232, 38)">rain</text>
+<text transform="translate(152,7)" font-size="7" style="fill:rgb(91, 1, 165)">observations</text>
+<text transform="translate(324,193)" font-size="7" style="fill:rgb(240, 127, 79)">present</text>
+<text transform="translate(321,138)" font-size="7" style="fill:rgb(253, 203, 38)">umbral</text>
+<text transform="translate(69,120)" font-size="7" style="fill:rgb(249, 151, 63)">research</text>
+<text transform="translate(240,129)" font-size="7" style="fill:rgb(247, 226, 37)">star</text>
+<text transform="translate(45,166)" font-size="6" style="fill:rgb(83, 2, 163)">one</text>
+<text transform="translate(26,79)" font-size="6" style="fill:rgb(49, 5, 151)">thermal</text>
+<text transform="translate(244,135)" font-size="6" style="fill:rgb(229, 106, 93)">EBTEL</text>
+<text transform="translate(34,131) rotate(-90)" font-size="6" style="fill:rgb(60, 4, 155)">heat</text>
+<text transform="translate(248,55)" font-size="6" style="fill:rgb(253, 200, 39)">two</text>
+<text transform="translate(377,21)" font-size="6" style="fill:rgb(217, 88, 106)">lower</text>
+<text transform="translate(303,83)" font-size="6" style="fill:rgb(165, 31, 153)">phase</text>
+<text transform="translate(45,196)" font-size="6" style="fill:rgb(211, 81, 113)">method</text>
+<text transform="translate(106,7)" font-size="6" style="fill:rgb(131, 5, 167)">structures</text>
+<text transform="translate(337,172)" font-size="6" style="fill:rgb(189, 55, 134)">presence</text>
+<text transform="translate(125,96)" font-size="6" style="fill:rgb(25, 6, 140)">EBTEL3</text>
+<text transform="translate(227,196)" font-size="6" style="fill:rgb(241, 131, 76)">well</text>
+<text transform="translate(221,153) rotate(-90)" font-size="6" style="fill:rgb(247, 144, 68)">HYDRAD</text>
+<text transform="translate(185,196)" font-size="6" style="fill:rgb(106, 0, 168)">solution</text>
+<text transform="translate(337,46)" font-size="6" style="fill:rgb(254, 184, 44)">data</text>
+<text transform="translate(77,46)" font-size="6" style="fill:rgb(235, 118, 85)">running</text>
+<text transform="translate(206,107) rotate(-90)" font-size="6" style="fill:rgb(240, 247, 36)">umbral oscillatory</text>
+<text transform="translate(394,181) rotate(-90)" font-size="6" style="fill:rgb(251, 211, 36)">oscillatory event</text>
+<text transform="translate(260,196)" font-size="5" style="fill:rgb(246, 230, 38)">theoretical</text>
+<text transform="translate(293,166)" font-size="5" style="fill:rgb(108, 0, 168)">impulsive</text>
+<text transform="translate(132,71)" font-size="5" style="fill:rgb(222, 97, 100)">spatial</text>
+<text transform="translate(3,195)" font-size="5" style="fill:rgb(253, 195, 40)">heated</text>
+<text transform="translate(26,109)" font-size="5" style="fill:rgb(102, 0, 167)">magnetic</text>
+<text transform="translate(85,195)" font-size="5" style="fill:rgb(253, 195, 40)">temperature</text>
+<text transform="translate(220,94)" font-size="5" style="fill:rgb(253, 200, 39)">strand</text>
+<text transform="translate(300,65)" font-size="5" style="fill:rgb(46, 5, 149)">studies</text>
+<text transform="translate(310,70)" font-size="5" style="fill:rgb(177, 42, 144)">high</text>
+<text transform="translate(369,5)" font-size="5" style="fill:rgb(231, 110, 91)">decay</text>
+<text transform="translate(41,66)" font-size="5" style="fill:rgb(250, 155, 61)">line</text>
+<text transform="translate(299,48)" font-size="5" style="fill:rgb(250, 158, 59)">event</text>
+<text transform="translate(290,121)" font-size="5" style="fill:rgb(96, 1, 166)">code</text>
+<text transform="translate(107,66) rotate(-90)" font-size="5" style="fill:rgb(248, 148, 65)">EBTEL2</text>
+<text transform="translate(13,36)" font-size="5" style="fill:rgb(248, 149, 64)">show</text>
+<text transform="translate(358,52)" font-size="5" style="fill:rgb(102, 0, 167)">Sun</text>
+<text transform="translate(253,68)" font-size="5" style="fill:rgb(235, 117, 86)">SDO</text>
+<text transform="translate(3,48)" font-size="5" style="fill:rgb(47, 5, 150)">center</text>
+<text transform="translate(220,80)" font-size="5" style="fill:rgb(253, 200, 39)">UPWs</text>
+<text transform="translate(109,149)" font-size="5" style="fill:rgb(62, 4, 156)">spottedness</text>
+<text transform="translate(392,109) rotate(-90)" font-size="5" style="fill:rgb(231, 110, 91)">active region</text>
+<text transform="translate(168,159) rotate(-90)" font-size="5" style="fill:rgb(29, 6, 142)">magnetic field</text>
+<text transform="translate(55,147)" font-size="5" style="fill:rgb(125, 3, 168)">emission measure</text>
+<text transform="translate(8,148) rotate(-90)" font-size="5" style="fill:rgb(254, 184, 44)">mean temperature</text>
+<text transform="translate(183,140)" font-size="4" style="fill:rgb(76, 2, 161)">field</text>
+<text transform="translate(208,5)" font-size="4" style="fill:rgb(186, 51, 136)">single</text>
+<text transform="translate(226,137) rotate(-90)" font-size="4" style="fill:rgb(252, 168, 53)">three</text>
+<text transform="translate(23,71)" font-size="4" style="fill:rgb(252, 168, 53)">dimensional</text>
+<text transform="translate(103,164)" font-size="4" style="fill:rgb(141, 11, 165)">MHD</text>
+<text transform="translate(25,147)" font-size="4" style="fill:rgb(172, 38, 148)">resolution</text>
+<text transform="translate(286,5)" font-size="4" style="fill:rgb(247, 145, 67)">hydrodynamic</text>
+<text transform="translate(187,79) rotate(-90)" font-size="4" style="fill:rgb(27, 6, 141)">many</text>
+<text transform="translate(225,102)" font-size="4" style="fill:rgb(235, 117, 86)">along</text>
+<text transform="translate(174,35) rotate(-90)" font-size="4" style="fill:rgb(254, 189, 42)">based</text>
+<text transform="translate(238,139)" font-size="4" style="fill:rgb(68, 3, 158)">pressure</text>
+<text transform="translate(22,84)" font-size="4" style="fill:rgb(194, 60, 129)">provides</text>
+<text transform="translate(218,166)" font-size="4" style="fill:rgb(209, 78, 114)">simulations</text>
+<text transform="translate(67,67)" font-size="4" style="fill:rgb(80, 2, 162)">analyze</text>
+<text transform="translate(323,119)" font-size="4" style="fill:rgb(231, 110, 91)">determine</text>
+<text transform="translate(94,95)" font-size="4" style="fill:rgb(100, 0, 167)">release</text>
+<text transform="translate(366,58)" font-size="4" style="fill:rgb(91, 1, 165)">reconnection</text>
+<text transform="translate(261,119)" font-size="4" style="fill:rgb(219, 92, 104)">impulsively</text>
+<text transform="translate(83,33) rotate(-90)" font-size="4" style="fill:rgb(80, 2, 162)">formed</text>
+<text transform="translate(316,102)" font-size="4" style="fill:rgb(253, 181, 46)">footpoint</text>
+<text transform="translate(319,142)" font-size="4" style="fill:rgb(56, 4, 154)">paper</text>
+<text transform="translate(88,175)" font-size="4" style="fill:rgb(205, 74, 118)">ray</text>
+<text transform="translate(300,149) rotate(-90)" font-size="4" style="fill:rgb(250, 156, 60)">computed</text>
+<text transform="translate(48,52)" font-size="4" style="fill:rgb(207, 76, 116)">study</text>
+<text transform="translate(181,168)" font-size="4" style="fill:rgb(222, 97, 100)">estimated</text>
+<text transform="translate(209,20)" font-size="4" style="fill:rgb(105, 0, 168)">erg</text>
+<text transform="translate(66,79)" font-size="4" style="fill:rgb(254, 192, 41)">velocity</text>
+<text transform="translate(145,18) rotate(-90)" font-size="4" style="fill:rgb(253, 178, 47)">system</text>
+<text transform="translate(222,71)" font-size="4" style="fill:rgb(245, 235, 39)">scale</text>
+<text transform="translate(272,63)" font-size="4" style="fill:rgb(254, 190, 42)">null</text>
+<text transform="translate(141,115) rotate(-90)" font-size="4" style="fill:rgb(19, 7, 137)">point</text>
+<text transform="translate(370,11)" font-size="4" style="fill:rgb(180, 46, 141)">Atmospheric</text>
+<text transform="translate(111,160)" font-size="4" style="fill:rgb(76, 2, 161)">required</text>
+<text transform="translate(130,64)" font-size="4" style="fill:rgb(202, 69, 122)">mechanism</text>
+<text transform="translate(301,196)" font-size="4" style="fill:rgb(193, 59, 130)">sunspot</text>
+<text transform="translate(341,69) rotate(-90)" font-size="4" style="fill:rgb(81, 2, 163)">detection</text>
+<text transform="translate(184,150)" font-size="4" style="fill:rgb(32, 6, 143)">found</text>
+<text transform="translate(251,5)" font-size="4" style="fill:rgb(203, 70, 121)">first</text>
+<text transform="translate(322,29)" font-size="4" style="fill:rgb(51, 5, 151)">support</text>
+<text transform="translate(343,68)" font-size="4" style="fill:rgb(253, 171, 51)">low</text>
+<text transform="translate(225,85)" font-size="4" style="fill:rgb(157, 24, 157)">CMi</text>
+<text transform="translate(211,48)" font-size="4" style="fill:rgb(44, 5, 148)">exoplanetary</text>
+<text transform="translate(254,48)" font-size="4" style="fill:rgb(182, 48, 139)">constrained</text>
+<text transform="translate(322,5)" font-size="4" style="fill:rgb(197, 64, 126)">enthalpy based</text>
+<text transform="translate(350,155) rotate(-90)" font-size="4" style="fill:rgb(225, 100, 98)">differential emission</text>
+<text transform="translate(5,96) rotate(-90)" font-size="4" style="fill:rgb(229, 106, 93)">space weather</text>
+<text transform="translate(42,142) rotate(-90)" font-size="4" style="fill:rgb(243, 240, 39)">data inspired</text>
 </svg>
