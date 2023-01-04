@@ -14,7 +14,7 @@ jobs:
       env: 
         ADSABS_TOKEN: ${{ secrets.ADSABS_TOKEN }}
       run: |
-        pip install ads
+        pip install ads wordcloud
         python py/adsabs.py > tmp.txt
         sed -n -i '1,/<!-- READINGLIST:START -->/p;/<!-- READINGLIST:END -->/,$p' README.md
         sed -i -e '/<!-- READINGLIST:START -->/r tmp.txt' README.md
