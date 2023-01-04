@@ -2,7 +2,7 @@ import ads, os
 import requests
 import json
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
-
+import matplotlib.pyplot as plt
 
 board_url = "https://trello.com/b/lHYXexvL/development-tasks.json"
 board_reponse = requests.get(board_url)
