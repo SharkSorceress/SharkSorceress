@@ -35,7 +35,8 @@ for lines in list(filter(None, reading_list)):
 text = ' '.join( [w for w in text.split() if "SUP" not in w] )
                 
 wordcloud = WordCloud(include_numbers=False, min_word_length=3, colormap='plasma').generate(text)
-wordcloud_svg = wordcloud.to_svg("word_cloud_test.png")
+wordcloud.to_file("wordcloud.png")
+wordcloud_svg = wordcloud.to_svg()
 f = open("wordcloud.svg","w+")
 f.write(wordcloud_svg)
 f.close()
