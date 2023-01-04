@@ -1,7 +1,7 @@
 import ads, os
 import requests
 import json
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+# from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 
 board_url = "https://trello.com/b/lHYXexvL/development-tasks.json"
