@@ -1,7 +1,7 @@
 import ads, os
 import requests
 import json
-# from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 
 board_url = "https://trello.com/b/lHYXexvL/development-tasks.json"
@@ -32,11 +32,11 @@ for lines in list(filter(None, reading_list)):
                 print(book + "[" + lines + "](https://ui.adsabs.harvard.edu/abs/" + first_paper.bibcode +  "/abstract)\n")
                 text += str(first_paper._get_field("abstract"))
 
-# text = ' '.join( [w for w in text.split() if "SUP" not in w] )
-                
-# wordcloud = WordCloud(include_numbers=False, min_word_length=3, colormap='plasma').generate(text)
-# wordcloud.to_file("wordcloud.png")
-# wordcloud_svg = wordcloud.to_svg("wordcloud.png")
-# f = open("wordcloud.svg","w+")
-# f.write(wordcloud_svg)
-# f.close()
+text = ' '.join( [w for w in text.split() if "SUP" not in w] )
+
+wordcloud = WordCloud(include_numbers=False, min_word_length=3, colormap='plasma', width=1600, height=800).generate(text)
+plt.figure(figsize=(10,5 ))
+plt.imshow(wordcloud)
+plt.axis("off")
+plt.tight_layout(pad=0)
+plt.savefig('wordcloud.png', format='png', dpi=1000)
