@@ -72,6 +72,7 @@
 <hr>
 <details>
 <summary><h3> Currently Reading </h3></summary>
+  <div align="center"> <img width="75%" src="./wordcloud.png"></div>
 <!-- READINGLIST:START -->
  
 :blue_book:[Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]](https://ui.adsabs.harvard.edu/abs/2008ApJ...682.1351K/abstract)
