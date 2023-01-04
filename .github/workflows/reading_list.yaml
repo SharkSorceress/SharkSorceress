@@ -20,7 +20,7 @@ jobs:
         sed -i -e '/<!-- READINGLIST:START -->/r tmp.txt' README.md
         sed -i -e '/<!-- READINGLIST:START -->/a \ ' README.md
     - name: stage changed files
-      run: git add README.md
+      run: git add README.md wordcloud.png
     - name: Commit files
       run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
