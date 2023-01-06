@@ -29,6 +29,9 @@
           <a href="https://orcid.org/0000-0001-7949-9163">
             <img title="My ORCID Profile" src="https://img.shields.io/badge/0000&#8208;0001&#8208;7949&#8208;9163-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
           </a>
+          <a href="">
+            <img title="AAVSO" src="https://img.shields.io/badge/AAVSO%20Observer-RSPA-22549C.svg?&style=flat-square&logoColor=white""/>
+          </a>
           <br>
           <a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PharaohCola13?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
