@@ -55,11 +55,12 @@
 
     goals.todo <- list(year.2023=list("[ ] Finish writing stuff for my blog",
                                       "[ ] Find some good recipes", 
-                                      "[0/4] Pass my Doctoral Qualifying Exams",
+                                      "[3/4] Pass my Doctoral Qualifying Exams",
                                       "[ ] Finish PMAT V3.0 (Guess I didn't finish this yet)",
     # Draft available: https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf
                                       "[ ] Finish a paper for the Journal of Open Source Software"))
-    goals.completed <- list(year.2023=list(),
+                                                                          
+    goals.completed <- list(year.2023=list("[1/4] Pass my Doctoral Qualifying Exams"),
                             year.2022=list("[x] Get into graduate school",
     # Paper is available at https://doi.org/10.5194/amt-15-1563-2022
                                            "[x] Published first paper"))
