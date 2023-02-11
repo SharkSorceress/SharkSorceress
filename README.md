@@ -79,9 +79,15 @@
  
 :blue_book:[Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]](https://ui.adsabs.harvard.edu/abs/2008ApJ...682.1351K/abstract)
 
+:blue_book:[Klimchuk_2023: [Observational Signatures of Coronal Heating in Magnetohydrodynamic Simulations without Radiation or a Lower Atmosphere ]](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...10K/abstract)
+
 :blue_book:[Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]](https://ui.adsabs.harvard.edu/abs/2013ApJ...770..111L/abstract)
 
 :blue_book:[Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...13R/abstract)
+
+:blue_book:[Gary_1989: [Linear Force-free Magnetic Fields for Solar Extrapolation and Interpretation ]](https://ui.adsabs.harvard.edu/abs/1989ApJS...69..323G/abstract)
+
+:notebook_with_decorative_cover:[Fisk_2001: [The Behavior of the Open Magnetic Field of the Sun]](https://ui.adsabs.harvard.edu/abs/2001ApJ...560..425F/abstract)
 
 :notebook_with_decorative_cover:[Mason_2019: [Observations of Solar Coronal Rain in Null Point Topologies]](https://ui.adsabs.harvard.edu/abs/2019ApJ...874L..33M/abstract)
 
