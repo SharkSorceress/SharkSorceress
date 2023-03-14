@@ -105,13 +105,13 @@
 </details>
 <hr>
 
-<table>
+<table align="center">
   <tr>
     <th><h3>Images of Messier 78 :telescope:</h3></th>
     <th><h3>Trophies</h3></th>
   </tr>
   <tr>
     <td width="50%" align="center"><img src="./M78_woback.png"></td>
-    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=onedark&column=4&no-frame=true&no-bg=true" ></td>
+    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=algolia&column=3&no-frame=true&no-bg=true" ></td>
   </tr>
 </table>
