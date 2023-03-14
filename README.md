@@ -112,6 +112,6 @@
   </tr>
   <tr>
     <td width="50%" align="center"><img src="./M78_woback.png"></td>
-    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=discord&column=4" ></td>
+    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=onedark&column=4&no-frame=true&no-bg=true" ></td>
   </tr>
 </table>
