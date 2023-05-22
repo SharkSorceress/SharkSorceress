@@ -81,25 +81,23 @@
 
 :blue_book:[Klimchuk_2023: [Observational Signatures of Coronal Heating in Magnetohydrodynamic Simulations without Radiation or a Lower Atmosphere ]](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...10K/abstract)
 
+:blue_book:[Wen-Juan_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13 ]](https://ui.adsabs.harvard.edu/abs/2013ApJ...770..111L/abstract)
+
+:blue_book:[Jiong_2012: [Heating of Flare Loops with Observationally Constrained Heating Functions](https://ui.adsabs.harvard.edu/abs/2012ApJ...752..124Q/abstract)
+
 :blue_book:[Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]](https://ui.adsabs.harvard.edu/abs/2013ApJ...770..111L/abstract)
 
 :blue_book:[Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...13R/abstract)
 
-:blue_book:[Gary_1989: [Linear Force-free Magnetic Fields for Solar Extrapolation and Interpretation ]](https://ui.adsabs.harvard.edu/abs/1989ApJS...69..323G/abstract)
+:blue_book:[Rast_2021: [Critical Science Plan for the Daniel K. Inouye Solar Telescope (DKIST)]](https://ui.adsabs.harvard.edu/abs/2021SoPh..296...70R/abstract)
 
-:notebook_with_decorative_cover:[Fisk_2001: [The Behavior of the Open Magnetic Field of the Sun]](https://ui.adsabs.harvard.edu/abs/2001ApJ...560..425F/abstract)
+:blue_book:[DePonieu_2014: [The Interface Region Imaging Spectrograph (IRIS)]](https://ui.adsabs.harvard.edu/abs/2023ISPAr48W3..201P/abstract)
 
-:notebook_with_decorative_cover:[Mason_2019: [Observations of Solar Coronal Rain in Null Point Topologies]](https://ui.adsabs.harvard.edu/abs/2019ApJ...874L..33M/abstract)
+:notebook_with_decorative_cover:[Ding_2001: [On the Fast Fluctuations in Solar Flare Hα Blue Wing Emission]](https://ui.adsabs.harvard.edu/abs/2001ApJ...552..340D/abstract)
 
-:notebook_with_decorative_cover:[Priya_2018: [Observations of Running Penumbral Waves Emerging in a Sunspot]](https://ui.adsabs.harvard.edu/abs/2018ApJ...852...15P/abstract)
+:notebook_with_decorative_cover:[Lörinčík_2022: [Rapid variations of Si IV spectra in a flare observed by interface region imaging spectrograph at a sub-second cadence]](https://ui.adsabs.harvard.edu/abs/2022AGUFMSH55A..08L/abstract)
 
-:notebook_with_decorative_cover:[Freij_2014: [The Detection of Upwardly Propagating Waves Channeling Energy from the Chromosphere to the Low Corona]](https://ui.adsabs.harvard.edu/abs/2014ApJ...791...61F/abstract)
-
-:notebook_with_decorative_cover:[Bicz_2022: [Starspot Modeling and Flare Analysis on Selected Main-sequence M-type Stars]](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..102B/abstract)
-
-:notebook_with_decorative_cover:[Cargill_2006: [On the Temperature-Emission Measure Distribution in Stellar Coronae]](https://ui.adsabs.harvard.edu/abs/2006ApJ...643..438C/abstract)
-
-:notebook_with_decorative_cover:[Lynch_2022: [Connecting Solar and Stellar Flares/CMEs: Expanding Heliophysics to Encompass Exoplanetary Space Weather]](https://ui.adsabs.harvard.edu/abs/2022arXiv221006476L/abstract)
+:notebook_with_decorative_cover:[Reva_2022: [Observations of Current Sheet Heating in X-Ray during a Solar Flare]](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...93R/abstract)
 
 <!-- READINGLIST:END -->
 </details>
