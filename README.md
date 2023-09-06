@@ -4,7 +4,7 @@
     <td width="50%" align="center"><img src="./sdo_vid.gif"></td>
     <td width="50%" align="left"><h1>:rainbow: Spencer Riley</h1>
       <i>
-        Long time open-source developer. First-year graduate student at Montana State University. Prospective solar physicist.
+        Long time open-source developer. Second-year graduate student at Montana State University. Prospective solar physicist.
       </i>
     </td>
   </tr>
