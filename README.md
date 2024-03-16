@@ -23,9 +23,6 @@
           <a href="https://board.sriley.dev">
             <img title="My Dev Board" src="https://img.shields.io/badge/Trello-0052CC.svg?&style=flat-square&logo=Trello&logoColor=white"/>
           </a>
-          <a href="https://rgate.sriley.dev">       
-            <img title="My ResearchGate Profile" src="https://img.shields.io/badge/-ResearchGate-00CCBB.svg?&style=flat-square&logo=researchgate&logoColor=white"/>
-          </a>
           <a href="https://orcid.org/0000-0001-7949-9163">
             <img title="My ORCID Profile" src="https://img.shields.io/badge/0000&#8208;0001&#8208;7949&#8208;9163-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
           </a>
