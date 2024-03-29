@@ -4,7 +4,7 @@ import json
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 
-board_url = "https://trello.com/c/YafIsd3n/development-tasks.json"
+board_url = "https://trello.com/b/lHYXexvL/development-tasks.json"
 board_reponse = requests.get(board_url)
 
 board_json = json.loads(board_reponse.content)
