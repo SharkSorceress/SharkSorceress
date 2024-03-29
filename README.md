@@ -48,15 +48,15 @@
     FrameWorks <- c("Docker", "Jupyter", "Kubernetes")
     CI <- c("GitHub Actions")
 
-    currently.learning <- "Numerical simulation methods to study magnetohydrodynamics."
+    currently.learning <- "High-Resolution spectral analysis with the Daniel K. Inouye Solar Telescope."
 
-    goals.todo <- list(year.2023=list("[ ] Finish writing stuff for my blog",
-                                      "[ ] Find some good recipes", 
-                                      "[ ] Finish PMAT V3.0 (Guess I didn't finish this yet)",
+    goals.todo <- list(year.2024=list("[ ] Write first first-author paper",
+                                      "[ ] Pass Ph.D candidacy exam",
     # Draft available: https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf
                                       "[ ] Finish a paper for the Journal of Open Source Software"))
                                                                           
-    goals.completed <- list(year.2023=list("[4/4] Pass my Doctoral Qualifying Exams"),
+    goals.completed <- list(year.2023=list("[4/4] Pass my Doctoral Qualifying Exams",
+                                           "[x] Find some good recipes"),
                             year.2022=list("[x] Get into graduate school",
     # Paper is available at https://doi.org/10.5194/amt-15-1563-2022
                                            "[x] Published first paper"))
