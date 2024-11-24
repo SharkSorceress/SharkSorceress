@@ -1,4 +1,5 @@
-from moviepy.editor import VideoFileClip
+#from moviepy.editor import VideoFileClip
+from moviepy.video.io import VideoFileClip
 import urllib.request
 import os
 from datetime import datetime
