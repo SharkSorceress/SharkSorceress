@@ -1,7 +1,7 @@
 #from moviepy.editor import VideoFileClip
 from moviepy.video.io.VideoFileClip import VideoFileClip
 from moviepy.video.io.ffmpeg_writer import ffmpeg_write_video
-from moviepy.video.fx import MutiplySpeed, FadeOut
+import moviepy.video.fx as fx #import MutiplySpeed, FadeOut
 import urllib.request
 import os
 from datetime import datetime
@@ -13,8 +13,8 @@ print(url)
 
 urllib.request.urlretrieve(url, "sdo_vid.mp4")
 videoClip = VideoFileClip("sdo_vid.mp4", target_resolution=(256, 256))
-videoClip = MultiplySpeed.MultiplySpeed(2).apply(videoClip)
-videoClip = FadeOut.FadeOut(0.5).apply(videoClip)
+videoClip = fx.MultiplySpeed.MultiplySpeed(2).apply(videoClip)
+videoClip = fx.FadeOut.FadeOut(0.5).apply(videoClip)
 ffmpeg_write_video.ffmpeg_write_video(videoClip, "sdo_vid.gif", 10)
 # videoClip = VideoFileClip("sdo_vid.mp4").resize(height=256)
 #videoClip.speedx(2).fadeout(0.5).write_gif("sdo_vid.gif", fps=10)
