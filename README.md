@@ -1,72 +1,70 @@
 
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="./sdo_vid.gif"></td>
-    <td width="50%" align="left"><h1>:rainbow: Spencer Riley</h1>
-      <i>
-        Long time open-source developer. Third-year graduate student at Montana State University. Prospective solar physicist.
-      </i>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-            <a href="https://sriley.dev">
-              <img title="My Webpage" src="https://img.shields.io/badge/sriley.dev-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/>
-          </a>
-          <a href="https://cv.sriley.dev">
-            <img title="My CV" src="https://custom-icon-badges.demolab.com/badge/CV-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=log"/>
-          </a>
-          <a href="mailto:academic@sriley.dev">
-            <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/academic@sriley.dev-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=mail"/>
-          </a>
-          <br>
-          <a href="https://board.sriley.dev">
-            <img title="My Dev Board" src="https://img.shields.io/badge/Trello-0052CC.svg?&style=flat-square&logo=Trello&logoColor=white"/>
-          </a>
-          <a href="https://orcid.org/0000-0001-7949-9163">
-            <img title="My ORCID Profile" src="https://img.shields.io/badge/0000&#8208;0001&#8208;7949&#8208;9163-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
-          </a>
-          <img title="AAVSO" src="https://img.shields.io/badge/AAVSO%20Observer-RSPA-22549C.svg?&style=flat-square&logoColor=white""/>
-          <br>
-          <a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PharaohCola13?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
-          </a>
-              <a href="https://github.com/PharaohCola13?tab=followers">
-                <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PharaohCola13?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&logoColor=white"/>
-              </a>
-            </td>
-        </tr>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img width="441" height="1">
+<img width="441" src="./sdo_vid.gif"></td>
+<td width="50%" align="center">
+<img width="441" height="1">
+<h1>Spencer Riley</h1>
+<a href="https://sriley.dev">
+<img title="My Webpage" src="https://img.shields.io/badge/sriley.dev-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/>
+</a>
+<a href="https://cv.sriley.dev">
+<img title="My CV" src="https://custom-icon-badges.demolab.com/badge/CV-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=log"/>
+</a>
+<a href="mailto:academic@sriley.dev">
+<img title="My Email" src="https://custom-icon-badges.demolab.com/badge/academic@sriley.dev-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=mail"/>
+</a>
+<br>
+<!-- <a href="https://board.sriley.dev">
+<img title="My Dev Board" src="https://img.shields.io/badge/Trello-0052CC.svg?&style=flat-square&logo=Trello&logoColor=white"/>
+</a> -->
+<a href="https://orcid.org/0000-0001-7949-9163">
+<img title="My ORCID Profile" src="https://img.shields.io/badge/0000&#8208;0001&#8208;7949&#8208;9163-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
+</a>
+<img title="AAVSO" src="https://img.shields.io/badge/AAVSO%20Observer-RSPA-22549C.svg?&style=flat-square&logoColor=white""/>
+<br>
+<a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PharaohCola13?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
+</a>
+<a href="https://github.com/PharaohCola13?tab=followers">
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PharaohCola13?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&logoColor=white"/>
+</a>      
+</td>
+</tr>
 </table>
 <hr>
 <h3>A Bit About Me</h3>
 
-```R
-  about.me <- function(...){
-    ifelse(pronouns, "They", "Them")
-  
-    Languages <- c("C", "Fluter", "HTML", "IDL", "JavaScript", "LaTeX", "Python", "R", "Shell")
-    FrameWorks <- c("Docker", "Jupyter", "Kubernetes")
-    CI <- c("GitHub Actions")
-
-    currently.learning <- "High-Resolution spectral analysis with the Daniel K. Inouye Solar Telescope."
-
-    goals.todo <- list(year.2024=list("[ ] Write first first-author paper",
-                                      "[ ] Pass Ph.D candidacy exam",
-    # Draft available: https://github.com/physicsgoddess1972/Precipitable-Water-Model/blob/paper/paper.pdf
-                                      "[ ] Finish a paper for the Journal of Open Source Software"))
-                                                                          
-    goals.completed <- list(year.2023=list("[4/4] Pass my Doctoral Qualifying Exams",
-                                           "[x] Find some good recipes"),
-                            year.2022=list("[x] Get into graduate school",
-    # Paper is available at https://doi.org/10.5194/amt-15-1563-2022
-                                           "[x] Published first paper"))
-                                            
-    fun.fact <- "My favorate animal is the whale shark"
-  }
-  
-  about.me()
-  
+```python
+    class aboutMe:
+      def __init__(self, year=2025):
+        self.name      = "Spencer Riley"
+        self.role      = "Ph.D. Candidate"
+    
+        self.pronouns  = ["They", "Them"]
+        self.funFact   =  "My favorate animal is the whale shark"
+    
+        self.focus     = "High-Resolution spectral analysis with the Daniel K. Inouye Solar Telescope."
+        self.papers    = ["https://doi.org/10.5194/amt-15-1563-2022"]
+    
+        self.todoList  = {"2025": ["[ ] Write first first-author paper"],
+                          "2024": ["[4/4] Pass my Doctoral Qualifying Exams",
+                                   "[x] Write an observing proposal for DKIST",
+                                   "[x] Pass Ph.D candidacy exam"],
+                          "2022": ["[x] Get into graduate school",
+                                   "[x] Published first paper ({pub})".format(pub=self.papers[0]]}
+    
+        self.code      = {"fontend": ["HTML/CSS", "JavaScript"],
+                          "backend": ["Shell", "Python", "IDL", "R", "C", "Fluter"],
+                          "devops": ["Docker", "GitHub Actions"],
+                          "tools": ["Jupyter Notebooks"],
+                          "misc": ["LaTeX"]}
+      def goals(self):
+        return(self.totoList[str(self.year)])
 ```
+
 <hr>
 <details>
 <summary><h3> Currently Reading </h3></summary>
