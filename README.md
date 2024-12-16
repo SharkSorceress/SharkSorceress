@@ -54,7 +54,7 @@
                                    "[x] Write an observing proposal for DKIST",
                                    "[x] Pass Ph.D candidacy exam"],
                           "2022": ["[x] Get into graduate school",
-                                   "[x] Published first paper ({pub})".format(pub=self.papers[0]]}
+                                   "[x] Published first paper ({pub})".format(pub=self.papers[0])]}
     
         self.code      = {"fontend": ["HTML/CSS", "JavaScript"],
                           "backend": ["Shell", "Python", "IDL", "R", "C", "Fluter"],
