@@ -1,9 +1,9 @@
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
-<img width="441" height="1">
-<img width="441" src="./sdo_vid.gif"></td>
+<td width="30%" align="center">
+<img width="341" height="1">
+<img width="341" src="./sdo_vid.gif"></td>
 <td width="50%" align="center">
 <img width="441" height="1">
 <h1>Spencer Riley</h1>
