@@ -24,11 +24,11 @@
 <img title="My ORCID Profile" src="https://img.shields.io/badge/0000&#8208;0001&#8208;7949&#8208;9163-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
 </a>
 <br>
-<a href="https://github.com/PharaohCola13?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PharaohCola13?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
+<a href="https://github.com/SharkSorceress?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SharkSorceress?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
 </a>
-<a href="https://github.com/PharaohCola13?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PharaohCola13?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&logoColor=white"/>
+<a href="https://github.com/SharkSorceress?tab=followers">
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SharkSorceress?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&logoColor=white"/>
 </a>      
 </td>
 </tr>
@@ -119,6 +119,6 @@
   </tr>
   <tr>
     <td width="50%" align="center"><img src="./M78_woback.png"></td>
-    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=PharaohCola13&theme=algolia&column=3&no-frame=true&no-bg=true" ></td>
+    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=SharkSorceress&theme=algolia&column=3&no-frame=true&no-bg=true" ></td>
   </tr>
 </table>
