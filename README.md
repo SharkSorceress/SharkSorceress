@@ -39,11 +39,11 @@
 ```python
     class aboutMe:
       def __init__(self, year=2025):
-        self.name      = "Sarah Riley (Formerly, Spencer Riley)"
+        self.name      = "Sarah Riley"
         self.role      = "Ph.D. Candidate"
     
-        self.pronouns  = ["She", "Her", "They", "Them"]
-        self.funFact   =  "My favorate animal is the whale shark"
+        self.pronouns  = ["She", "Her"]
+        self.funFact   =  "My favorate animal is the thresher shark"
     
         self.focus     = "High-Resolution spectral analysis with the Daniel K. Inouye Solar Telescope."
         self.papers    = ["https://doi.org/10.5194/amt-15-1563-2022"]
