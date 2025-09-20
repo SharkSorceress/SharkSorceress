@@ -17,9 +17,6 @@
 <img title="My Email" src="https://custom-icon-badges.demolab.com/badge/academic@sriley.dev-46a2f1.svg?color=46a2f1&style=flat-square&labelColor=46a2f1&logo=mail"/>
 </a>
 <br>
-<!-- <a href="https://board.sriley.dev">
-<img title="My Dev Board" src="https://img.shields.io/badge/Trello-0052CC.svg?&style=flat-square&logo=Trello&logoColor=white"/>
-</a> -->
 <a href="https://orcid.org/0000-0001-7949-9163">
 <img title="My ORCID Profile" src="https://img.shields.io/badge/0000&#8208;0001&#8208;7949&#8208;9163-A6CE39.svg?&style=flat-square&logo=orcid&logoColor=white"/>
 </a>
@@ -37,8 +34,9 @@
 <h3>A Bit About Me</h3>
 
 ```python
+    from datetime import datetime
     class aboutMe:
-      def __init__(self, year=2025):
+      def __init__(self):
         self.name      = "Sarah Riley"
         self.role      = "Ph.D. Candidate"
     
@@ -61,64 +59,22 @@
                           "tools": ["Jupyter Notebooks"],
                           "misc": ["LaTeX"]}
       def goals(self):
-        return(self.totoList[str(self.year)])
+        return(self.totoList[str(datetime.now().year)])
 ```
-
-<hr>
-<details>
-<summary><h3> Currently Reading </h3></summary>
-  <div align="center"> <img width="75%" src="./wordcloud.png"></div>
-<!-- READINGLIST:START -->
- 
-:blue_book:[Jiong_2012: [Heating of Flare Loops with Observationally Constrained Heating Functions]](https://ui.adsabs.harvard.edu/abs/2012ApJ...752..124Q/abstract)
-
-:blue_book:[Klimchuk_2008: [Highly Efficient Modeling of Dynamic Coronal Loops]](https://ui.adsabs.harvard.edu/abs/2008ApJ...682.1351K/abstract)
-
-:blue_book:[Liu_2013: [Determining Heating Rates in Reconnection Formed Flare Loops of the M8.0 Flare on 2005 May 13]](https://ui.adsabs.harvard.edu/abs/2013ApJ...770..111L/abstract)
-
-:blue_book:[Ivanov_2021: [Solar activity classification based on Mg II spectra: Towards classification on compressed data]](https://ui.adsabs.harvard.edu/abs/2021A&C....3600473I/abstract)
-
-:blue_book:[Panos_2018: [Identifying Typical Mg ii Flare Spectra Using Machine Learning]](https://ui.adsabs.harvard.edu/abs/2018ApJ...861...62P/abstract)
-
-:blue_book:[Canfield_1984: [The H-alpha spectral signatures of solar flare nonthermal electrons, conductive flux, and coronal pressure]](https://ui.adsabs.harvard.edu/abs/1984ApJ...282..296C/abstract)
-
-:blue_book:[Graham_2015: [Temporal Evolution of Multiple Evaporating Ribbon Sources in a Solar Flare]](https://ui.adsabs.harvard.edu/abs/2015ApJ...807L..22G/abstract)
-
-:blue_book:[DePonieu_2014: [The Interface Region Imaging Spectrograph (IRIS)]](https://ui.adsabs.harvard.edu/abs/2024arXiv240317453L/abstract)
-
-:blue_book:[Rast_2021: [Critical Science Plan for the Daniel K. Inouye Solar Telescope (DKIST)]](https://ui.adsabs.harvard.edu/abs/2021SoPh..296...70R/abstract)
-
-:blue_book:[Fisher_1989: [Dynamics of Flare-driven Chromospheric Condensations ]](https://ui.adsabs.harvard.edu/abs/1989BAAS...21..843F/abstract)
-
-:blue_book:[Kuridze_2018: [Spectropolarimetric Inversions of the Ca II 8542 Å Line in an M-class Solar Flare]](https://ui.adsabs.harvard.edu/abs/2018ApJ...860...10K/abstract)
-
-:blue_book:[Lörinčík_2022: [Rapid variations of Si IV spectra in a flare observed by interface region imaging spectrograph at a sub-second cadence]](https://ui.adsabs.harvard.edu/abs/2022AGUFMSH55A..08L/abstract)
-
-:blue_book:[Polito_2023: [Solar Flare Ribbon Fronts. I. Constraining Flare Energy Deposition with IRIS Spectroscopy]](https://ui.adsabs.harvard.edu/abs/2023ApJ...944..104P/abstract)
-
-:blue_book:[Fisher_1989: [Dynamics of Flare-driven Chromospheric Condensations]](https://ui.adsabs.harvard.edu/abs/1989BAAS...21..843F/abstract)
-
-:notebook_with_decorative_cover:[Klimchuk_2023: [Observational Signatures of Coronal Heating in Magnetohydrodynamic Simulations without Radiation or a Lower Atmosphere]](https://ui.adsabs.harvard.edu/abs/2023ApJ...942...10K/abstract)
-
-:notebook_with_decorative_cover:[Rajhans_2022: [Flows in Enthalpy-based Thermal Evolution of Loops]](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...13R/abstract)
-
-:notebook_with_decorative_cover:[Ding_2001: [On the Fast Fluctuations in Solar Flare Hα Blue Wing Emission]](https://ui.adsabs.harvard.edu/abs/2001ApJ...552..340D/abstract)
-
-:notebook_with_decorative_cover:[Lörinčík_2022: [Rapid variations of Si IV spectra in a flare observed by interface region imaging spectrograph at a sub-second cadence]](https://ui.adsabs.harvard.edu/abs/2022AGUFMSH55A..08L/abstract)
-
-:notebook_with_decorative_cover:[Reva_2022: [Observations of Current Sheet Heating in X-Ray during a Solar Flare]](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...93R/abstract)
-
-<!-- READINGLIST:END -->
-</details>
 <hr>
 
 <table align="center">
-  <tr>
+<tr>
     <th><h3>Images of Messier 78 :telescope:</h3></th>
     <th><h3>Trophies</h3></th>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="./M78_woback.png"></td>
-    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=SharkSorceress&theme=algolia&column=3&no-frame=true&no-bg=true" ></td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img width="341" height="1">
+<img width="341" src="./M78_woback.png"></td>
+<td width="50%" align="center">
+<img width="441" height="1">
+<img src="https://github-profile-trophy.vercel.app/?username=SharkSorceress&theme=algolia&column=3&no-frame=true&no-bg=true" ></td>
+</tr>
   </tr>
 </table>
