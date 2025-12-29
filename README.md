@@ -34,7 +34,6 @@
 <h3>A Bit About Me</h3>
 
 ```python
-    from datetime import datetime
     class aboutMe:
       def __init__(self):
         self.name      = "Sarah Riley"
@@ -46,20 +45,11 @@
         self.focus     = "High-Resolution spectral analysis with the Daniel K. Inouye Solar Telescope."
         self.papers    = ["https://doi.org/10.5194/amt-15-1563-2022"]
     
-        self.todoList  = {"2025": ["[ ] Write first first-author paper"],
-                          "2024": ["[4/4] Pass my Doctoral Qualifying Exams",
-                                   "[x] Write an observing proposal for DKIST",
-                                   "[x] Pass Ph.D candidacy exam"],
-                          "2022": ["[x] Get into graduate school",
-                                   "[x] Published first paper ({pub})".format(pub=self.papers[0])]}
-    
         self.code      = {"fontend": ["HTML/CSS", "JavaScript"],
                           "backend": ["Shell", "Python", "IDL", "R", "C", "Fluter"],
                           "devops": ["Docker", "GitHub Actions"],
                           "tools": ["Jupyter Notebooks"],
                           "misc": ["LaTeX"]}
-      def goals(self):
-        return(self.totoList[str(datetime.now().year)])
 ```
 <hr>
 
